@@ -58,5 +58,7 @@ Dentro de la materia he tenido dificultad para adaptarme a los simbolos usados t
 
 Para finalizar, en esta unidad he aprendido muchos términos nuevos y los conceptos básicos de la programacion, como del pseudocodigo se puede pasar al lenguaje de programacion y hacer un programa mucho más avanzado. Esta unidad me ayudo a aprender la lógica que siguen los programas, como se debe estructurarlos y como ser ordenado en todo aspecto mejora mucho la efectividad y eficiencia al momento de realizar alguna tarea.
 
-
+<p align="right">
+  <a href="index.md">Volver a la página principal</a>
+</p>
 
