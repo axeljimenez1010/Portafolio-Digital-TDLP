@@ -1,3 +1,5 @@
+## 💾📝CONTENIDOS DE LA UNIDAD
+
 ### Algoritmos, pseudocódigo, diagramas de flujo
 
 Los algoritmos son pasos secuneciales que siguen una lógica, que permiten resolver problemas específicos.
@@ -15,11 +17,13 @@ Son los algoritmos que usan las fórmulas algebraicas y cálculos número para r
 
 El pseudocódigo es la base para entrar al mundo de la programacion, porque este programa es utilizado en escuelas, colegios, universidades. Permite escribir instrucciones en nuestro lenguaje a un lenguaje en el que la computadora logre entenderlo y procese lo que necesitamos para resolver los problemas que propongamos.
 
+[Actividades PSeint](https://drive.google.com/drive/folders/1RzWP6Gr5CPKaEf53AyLn-GCuPNheCflT?usp=sharing)
+
 #### 💠👇🌊 Diagrama de flujo
 
 Son aquellos que describen procesos mediante diagramas, son utilizados para facilitar la lectura de los procesos, estos diagramas utilizan figuras en las cuales cada figura cumple un rol, acompañadas de flechas que ayudan a revisar la secuencia de los pasos [3]. En resumen facilitan la lectura de los procesos y agiliza la toma de decisiones. 
 
-[Actividades PSeint](https://drive.google.com/drive/folders/1aj-N0Kdkn8663RM6WMKmjRyrH-XSmp0f?usp=sharing)
+[Actividades PSeint Diagramas de Flujo](https://drive.google.com/drive/folders/12pXgqAJp3yEe0kTQveeYL6HXcfKj0qNv?usp=sharing)
 
 ---
 
@@ -49,8 +53,10 @@ Dentro de la materia he tenido dificultad para adaptarme a los simbolos usados t
 
 ---
 
+
 ### ✨✍️ Reflexión crítica de los aprendizajes de la unidad
 
+Para finalizar, en esta unidad he aprendido muchos términos nuevos y los conceptos básicos de la programacion, como del pseudocodigo se puede pasar al lenguaje de programacion y hacer un programa mucho más avanzado. Esta unidad me ayudo a aprender la lógica que siguen los programas, como se debe estructurarlos y como ser ordenado en todo aspecto mejora mucho la efectividad y eficiencia al momento de realizar alguna tarea.
 
 
 
