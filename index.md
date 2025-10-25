@@ -5,9 +5,11 @@
 
 ### 🛰️ Unidad 1
 
-[Contenido de la Unidad 1](contenidosunidad1.md)
+Dentro de estas dos secciones estan todas las tareas, actividades realizadas durante la Unidad 1. 🧐
 
-[Tareas entregadas Unidad 1]
+🗄️👁️‍🗨️[Contenido de la Unidad 1](contenidosunidad1.md) 
+
+[Tareas entregadas Unidad 1](
 ---
 
 ### 2️⃣ Unidad 2
