@@ -26,6 +26,11 @@ Esta tarea trata de que debiamos realizar nuestro primer algoritmo con ciertas c
 
 📄 [Construcción del algoritmo](https://drive.google.com/drive/folders/1fLvkMQGx7qIG7GG2IDmFKD7n0giGZNzF?usp=sharing)
 
+---
+
+#### 🏷️🗃️ Del diseño del algoritmo con estructuras secuenciales a la construcción del programa
+
+
 
 
 <p align="right">
