@@ -17,7 +17,7 @@ El pseudocódigo es la base para entrar al mundo de la programacion, porque este
 
 #### 💠👇🌊 Diagrama de flujo
 
-Son aquellos que describen procesos mediante diagramas, son utilizados para facilitar la lectura de los procesos, estos diagramas utilizan figuras en las cuales cada figura cumple un rol, acompañadas de flechas que ayudan a revisar la secuencia de los pasos [3], en resumen facilitan la lectura de los procesos y agiliza la toma de decisiones. 
+Son aquellos que describen procesos mediante diagramas, son utilizados para facilitar la lectura de los procesos, estos diagramas utilizan figuras en las cuales cada figura cumple un rol, acompañadas de flechas que ayudan a revisar la secuencia de los pasos [3]. En resumen facilitan la lectura de los procesos y agiliza la toma de decisiones. 
 
 [Actividades PSeint](https://drive.google.com/drive/folders/1aj-N0Kdkn8663RM6WMKmjRyrH-XSmp0f?usp=sharing)
 
