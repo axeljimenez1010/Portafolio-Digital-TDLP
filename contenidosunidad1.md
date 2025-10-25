@@ -1,6 +1,6 @@
 ## 💾📝CONTENIDOS DE LA UNIDAD
 
-### Algoritmos, pseudocódigo, diagramas de flujo
+### 🚪🧠Algoritmos, pseudocódigo, diagramas de flujo
 
 Los algoritmos son pasos secuneciales que siguen una lógica, que permiten resolver problemas específicos.
 Estos algoritmos se dividen en dos categorías: 
@@ -17,13 +17,17 @@ Son los algoritmos que usan las fórmulas algebraicas y cálculos número para r
 
 El pseudocódigo es la base para entrar al mundo de la programacion, porque este programa es utilizado en escuelas, colegios, universidades. Permite escribir instrucciones en nuestro lenguaje a un lenguaje en el que la computadora logre entenderlo y procese lo que necesitamos para resolver los problemas que propongamos.
 
-[Actividades PSeint](https://drive.google.com/drive/folders/1RzWP6Gr5CPKaEf53AyLn-GCuPNheCflT?usp=sharing)
+##### 💻 ACTIVIDADES
+
+🗨️ [Actividades PSeint](https://drive.google.com/drive/folders/1RzWP6Gr5CPKaEf53AyLn-GCuPNheCflT?usp=sharing)
 
 #### 💠👇🌊 Diagrama de flujo
 
 Son aquellos que describen procesos mediante diagramas, son utilizados para facilitar la lectura de los procesos, estos diagramas utilizan figuras en las cuales cada figura cumple un rol, acompañadas de flechas que ayudan a revisar la secuencia de los pasos [3]. En resumen facilitan la lectura de los procesos y agiliza la toma de decisiones. 
 
-[Actividades PSeint Diagramas de Flujo](https://drive.google.com/drive/folders/12pXgqAJp3yEe0kTQveeYL6HXcfKj0qNv?usp=sharing)
+##### 💻 ACTIVIDADES
+
+🗨️ [Actividades PSeint Diagramas de Flujo](https://drive.google.com/drive/folders/12pXgqAJp3yEe0kTQveeYL6HXcfKj0qNv?usp=sharing)
 
 ---
 
@@ -31,7 +35,9 @@ Son aquellos que describen procesos mediante diagramas, son utilizados para faci
 
 En este entorno las instrucciones estan escritas en bloques, para construir los programas se deben arrastrar los bloques y juntarlos a otros, este tipo de programacion tiene una mayor ventaja que la programacion escrita, por el simple hecho de que aqui se evita los errores de sintaxis muy comunes en lo escrito, es por eso que en este modo de programar el programador se concentra unicamente en la construccion del algoritmo razon por la cual es muy utilizada en instituos de educacion para introducir a los estudiantes a conceptos basicos y al mundo de la progrmacion. [4]
 
-[Actividades Programacion por Bloques](https://drive.google.com/drive/folders/1BkyhZvw1LZubSUEDsrqpakbkp0FwE_FZ?usp=sharing)
+##### 💻 ACTIVIDADES
+
+🗨️ [Actividades Programacion por Bloques](https://drive.google.com/drive/folders/1BkyhZvw1LZubSUEDsrqpakbkp0FwE_FZ?usp=sharing)
 
 ---
 
@@ -39,11 +45,13 @@ En este entorno las instrucciones estan escritas en bloques, para construir los 
 
 Para esta sección elegí un algoritmo que permita calcular el promedio de las notas de un estudiante, pasara de estar escrito en PSeint al lenguaje de programación C.
 
-[Ejericicio PSeint/C](https://drive.google.com/drive/folders/1eZEG4GpI1JA795921ehuytX2KHslluqt?usp=sharing)
+##### 💻 ACTIVIDADES
+
+🗨️ [Ejericicio PSeint/C](https://drive.google.com/drive/folders/1eZEG4GpI1JA795921ehuytX2KHslluqt?usp=sharing)
 
 Aparte de este ejercicio, aqui estan todos los ejercicios realizados en clase dentro del lenguaje C:
 
-[Ejercicios de C](https://drive.google.com/drive/folders/1WwCeyrolFfQ_Y8z_QAtsYR6tsRsWBmhv?usp=sharing)
+🗨️ [Ejercicios de C](https://drive.google.com/drive/folders/1WwCeyrolFfQ_Y8z_QAtsYR6tsRsWBmhv?usp=sharing)
 
 ---
 
