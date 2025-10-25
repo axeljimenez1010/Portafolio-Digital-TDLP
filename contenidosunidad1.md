@@ -32,3 +32,8 @@ En este entorno las instrucciones estan escritas en bloques, para construir los 
 Para esta sección elegí un algoritmo que permita calcular el promedio de las notas de un estudiante, pasara de estar escrito en PSeint al lenguaje de programación C.
 
 [Ejericicio PSeint/C](https://drive.google.com/drive/folders/1eZEG4GpI1JA795921ehuytX2KHslluqt?usp=sharing)
+
+### 🤔🛑Principales dificultades en la aplicación de los contenidos
+
+
+
