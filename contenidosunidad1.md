@@ -21,11 +21,15 @@ Son aquellos que describen procesos mediante diagramas, son utilizados para faci
 
 [Actividades PSeint](https://drive.google.com/drive/folders/1aj-N0Kdkn8663RM6WMKmjRyrH-XSmp0f?usp=sharing)
 
+---
+
 ### 🦺🧱 Programacion por bloques 
 
 En este entorno las instrucciones estan escritas en bloques, para construir los programas se deben arrastrar los bloques y juntarlos a otros, este tipo de programacion tiene una mayor ventaja que la programacion escrita, por el simple hecho de que aqui se evita los errores de sintaxis muy comunes en lo escrito, es por eso que en este modo de programar el programador se concentra unicamente en la construccion del algoritmo razon por la cual es muy utilizada en instituos de educacion para introducir a los estudiantes a conceptos basicos y al mundo de la progrmacion. [4]
 
 [Actividades Programacion por Bloques](https://drive.google.com/drive/folders/1BkyhZvw1LZubSUEDsrqpakbkp0FwE_FZ?usp=sharing)
+
+---
 
 ### 💡Ejemplos de algoritmos con estructuras lineales/secuenciales
 
@@ -33,7 +37,20 @@ Para esta sección elegí un algoritmo que permita calcular el promedio de las n
 
 [Ejericicio PSeint/C](https://drive.google.com/drive/folders/1eZEG4GpI1JA795921ehuytX2KHslluqt?usp=sharing)
 
+Aparte de este ejercicio, aqui estan todos los ejercicios realizados en clase dentro del lenguaje C:
+
+[Ejercicios de C](https://drive.google.com/drive/folders/1WwCeyrolFfQ_Y8z_QAtsYR6tsRsWBmhv?usp=sharing)
+
+---
+
 ### 🤔🛑Principales dificultades en la aplicación de los contenidos
+
+Dentro de la materia he tenido dificultad para adaptarme a los simbolos usados tanto en PSeint como en el lenguaje de C, ademas de eso cuando escribia mi código en C a veces no compilaba, y se me complico un poco usar los nuevos términos de C ya que en PSeint se escribe con términos diferentes y que en C se escribe las lineas de código en inglés mientras que en PSeint se lo hace en español.
+
+---
+
+### ✨✍️ Reflexión crítica de los aprendizajes de la unidad
+
 
 
 
