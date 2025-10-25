@@ -2,7 +2,27 @@
 
 Dentro de esta seccion estan todas las tareas que fueron enviadas mediante el EVA, estan en formato de WORD y PDF.
 
-[Tareas entregadas Unidad 1](https://drive.google.com/drive/folders/1PBthacOLDEOebhdBG0KFcmMk6DMk5u7D?usp=sharing)
+---
+
+#### 📎Herramientas de algoritmos (pseudocódigo y diagramas de flujo)
+
+Esta tarea consistia en consultar herramientas digitales para escrbir pseudocódigos y realizar diagramas de flujo, ademas de adjuntar evidencias de un algoritmo realizado en estas herramientas.
+
+📄 [Herramientas Digitales](https://drive.google.com/drive/folders/1X5NCdN1hKoXCCk2dOVLU-mDzCMEmDvir?usp=sharing)
+
+---
+
+#### 🛠️⚙️Instalación de lenguajes de programación (C, Python o Java)
+
+Esta tarea consistia en que debiamos descargar cualquier lenguaje de programación y documentar paso a paso con evidencia gráfica el proceso de instalación.
+
+📄 [Instalacion de Lenguajes de Programacion](https://drive.google.com/drive/folders/1nQe4iaC0pK7tX4AbUnoqGPDRDd9D8o3o?usp=sharing)
+
+---
+
+#### ⌨️🖊️🧾 Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo Tarea
+
+
 
 
 <p align="right">
