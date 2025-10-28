@@ -13,12 +13,12 @@ Dentro de estas dos secciones estan todas las tareas, actividades realizadas dur
 
 ---
 
-### 2️⃣ Unidad 2
+### 2️🗄️ Unidad 2
 
 
 ---
 
-### 3️⃣ Unidad 3
+### ⚙️ Unidad 3
 
 
 ---
