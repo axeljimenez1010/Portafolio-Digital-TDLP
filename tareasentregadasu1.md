@@ -30,6 +30,10 @@ Esta tarea trata de que debiamos realizar nuestro primer algoritmo con ciertas c
 
 #### 🏷️🗃️ Del diseño del algoritmo con estructuras secuenciales a la construcción del programa
 
+En esta tarea tuvimos que realizar un código que permita conocer la nota del certamen 3 para que el estudiante pasara con una nota de 60/100 puntos.
+
+📄 [Diseño del algoritmo a la construcción del programa](https://drive.google.com/drive/folders/11G226Ce8juoHyEcsG3wFNsCmb-pFiru0?usp=sharing)
+
 
 
 
