@@ -22,7 +22,7 @@ Esta tarea consistia en que debiamos descargar cualquier lenguaje de programaci�
 
 #### ⌨️🖊️🧾 Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo Tarea
 
-Esta tarea trata de que debiamos realizar nuestro primer algoritmo con ciertas condiciones para calcular el IMC de una persona mediante la aplicacion de PSeint.
+Esta tarea trata de que debiamos realizar nuestro primer algoritmo con ciertas condiciones para calcular el IMC de una persona mediante la aplicación de PSeint.
 
 📄 [Construcción del algoritmo](https://drive.google.com/drive/folders/1fLvkMQGx7qIG7GG2IDmFKD7n0giGZNzF?usp=sharing)
 
