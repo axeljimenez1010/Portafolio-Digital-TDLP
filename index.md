@@ -13,7 +13,7 @@ Dentro de estas dos secciones estan todas las tareas, actividades realizadas dur
 
 ---
 
-### 2️🗄️ Unidad 2
+### 🗄️ Unidad 2
 
 
 ---
