@@ -40,7 +40,7 @@ Para demostrar lo que es el pseudocódigo utilizaremos el siguiente problema el 
 	Escribir "El cambio a recibir por la compra del producto es: ", cambio
 	
 
-### Explicación del código:
+#### Explicación del código:
 
 El código fue escrito en PSeint, antes de empezar a escribir la resolución del problema debemos definir las variables, una vez ya esten definidas procedemos a escribir los datos de entrada donde usamos "Escribir" para mostrar lo que debe hacer el usuario, con la instruccion mostrada, digitamos el comando "Leer" que funciona para que el usuario digite la cantidad y sea almacenada en la variable. Repetimos el mismo proceso para ingresar el costo del producto. Con los datos de entrada escritos viene el proceso donde utilizaremos una fórmula de resta simple para conocer el valor del cambio que recibira el usuario. Finalmente vienen los datos de salida que funcionan para mostrar el mensaje final es decir el resultado de la operacion, nuevamente usaremos "Escribir" para mostrar el mensaje final dandole a conocer los resultados de la operacion al usuario.
 
@@ -50,11 +50,24 @@ El código fue escrito en PSeint, antes de empezar a escribir la resolución del
 
 Son aquellos que describen procesos mediante diagramas, son utilizados para facilitar la lectura de los procesos, estos diagramas utilizan figuras en las cuales cada figura cumple un rol, acompañadas de flechas que ayudan a revisar la secuencia de los pasos [3]. En resumen facilitan la lectura de los procesos y agiliza la toma de decisiones. 
 
+#### Ejercicio Práctico
+
+Ahora para demostrar lo que es el diagrama de flujo usaremos el mismo ejemplo que en el pseudocódigo.
+
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1OI--OIPueuTOHYwLQBicntgUm2ADjmMs" alt="Descripción" width="35%">
+</p>
+
+
+#### Explicación del diagrama 
+
+Funciona igual que en el pseudocódigo, únicamente que muestra la estructura del algoritmo de fomra visual, en la que el cuadrado representa "asignar", y los paralelogramos funcionan tanto como "Escribir " que sería el paralelogramo en verde y "Leer" que sería el paralelogramo en rojo, la flechas demuestran el flujo del algoritmo.
+
 ---
 
 ### 🦺🧱 Programacion por bloques 
 
-En este entorno las instrucciones están escritas en bloques, para construir los programas se deben arrastrar los bloques y juntarlos a otros, este tipo de programación tiene una mayor ventaja que la programación escrita, por el simple hecho de que aqui se evitan los errores de sintaxis muy comunes en lo escrito, es por eso que en este modo de programar el programador se concentra únicamente en la construcción del algoritmo razón por la cual es muy utilizada en institutos de educacion para introducir a los estudiantes a conceptos básicos y al mundo de la progrmacion. [4]
+En este entorno las instrucciones están escritas en bloques, para construir los programas se deben arrastrar los bloques y juntarlos a otros, este tipo de programación tiene una mayor ventaja que la programación escrita, por el simple hecho de que aqui se evitan los errores de sintaxis muy comunes en lo escrito, es por eso que en este modo de programar el programador se concentra únicamente en la construcción del algoritmo razón por la cual es muy utilizada en institutos de educacion para introducir a los estudiantes a conceptos básicos y al mundo de la progrmacion [4].
 
 
 
