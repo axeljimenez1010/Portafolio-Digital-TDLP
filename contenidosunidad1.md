@@ -50,8 +50,6 @@ El código fue escrito en PSeint, antes de empezar a escribir la resolución del
 
 Son aquellos que describen procesos mediante diagramas, son utilizados para facilitar la lectura de los procesos, estos diagramas utilizan figuras en las cuales cada figura cumple un rol, acompañadas de flechas que ayudan a revisar la secuencia de los pasos [3]. En resumen facilitan la lectura de los procesos y agiliza la toma de decisiones. 
 
-
-
 ---
 
 ### 🦺🧱 Programacion por bloques 
