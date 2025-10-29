@@ -5,7 +5,7 @@
 
 ### 🛰️ Unidad 1
 
-Dentro de estas dos secciones estan todas las tareas, actividades realizadas durante la Unidad 1. 🧐
+Dentro de estas dos secciones están todas las tareas, actividades realizadas durante la Unidad 1. 🧐
 
 🗄️👁️‍🗨️[Contenido de la Unidad 1](contenidosunidad1.md) 
 
@@ -30,7 +30,7 @@ Dentro de estas dos secciones estan todas las tareas, actividades realizadas dur
 
 ### 📚 Referencias
 
-Para este portafolio he usado las siguiente referencias bibliograficas: 
+Para este portafolio he usado las siguientes referencias bibliográficas: 
 
 [1] H. Sy Corvo, "Algoritmos cualitativos," Lifeder, Abr. 26, 2021. [Online]. Disponible: https://www.lifeder.com/algoritmos-cualitativos/ [Accedido: Oct. 25, 2025].
 
@@ -44,4 +44,4 @@ Para este portafolio he usado las siguiente referencias bibliograficas:
 
 ### 🤖 Uso de la IA Generativa
 
-Se ha usado la IA "Google Gemini", para pedir consejos e ideas de como mejorar la estructura del portafolio, mejorar la estética y hacerlo más agradable visualmente, para pedir información extra que no estaba en las páginas referenciadas, y formar ideas a partir del concepto que generaba la IA.
+Se ha usado la IA "Google Gemini", para pedir consejos e ideas de cómo mejorar la estructura del portafolio, mejorar la estética y hacerlo más agradable visualmente, para pedir información extra que no estaba en las páginas referenciadas, y formar ideas a partir del concepto que generaba la IA.
