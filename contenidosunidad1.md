@@ -19,6 +19,8 @@ Son los algoritmos que usan las fórmulas algebraicas y cálculos númericos par
 
 El pseudocódigo es la base para entrar al mundo de la programación, porque este programa es utilizado en escuelas, colegios, universidades. Permite escribir instrucciones en nuestro lenguaje a un lenguaje en el que la computadora logre entenderlo y procese lo que necesitamos para resolver los problemas que propongamos.
 
+---
+
 #### ***EJEMPLO PRÁCTICO DEL PSEUDOCÓDIGO***
 
 Para demostrar lo que es el pseudocódigo utilizaremos el siguiente problema el cual requiere saber que cambio recibira el consumidor por la compra de un producto:
@@ -91,6 +93,7 @@ Ahora para demostrar lo que es el diagrama de flujo usaremos el mismo ejemplo qu
   <img src="https://drive.google.com/uc?id=1OI--OIPueuTOHYwLQBicntgUm2ADjmMs" alt="Descripción" width="35%">
 </p>
 
+---
 
 #### *Explicación del diagrama* 
 
@@ -113,6 +116,8 @@ En este entorno las instrucciones están escritas en bloques, para construir los
 <p align="center">
   <img src="https://drive.google.com/uc?id=1-ElZ1z_ib5P8S3YJVHsf6-lSRKNo1ieb" alt="Descripción" width="75%">
 </p>
+
+---
 
 #### *Explicación práctica de la programación por bloques*
 
@@ -161,6 +166,8 @@ FinAlgoritmo
 
 ```
 
+---
+
 #### Explicación
 
 Para este algoritmo primero se le muestra al usuario el mensaje para que ingrese el valor de su primera nota, y asi llene los dos campos restantes con los valores de las notas, a continuacion viene la fórmula para sacar el promedio que seria sumando las 3 notas y diviendolas para 3 en este caso, con la fórmula planteada procedemos a escribir el mensaje final donde se mostrará el resultado de la operacion, siendo el promedio de las 3 notas.
@@ -206,6 +213,8 @@ int main() {
 
 ```
 
+---
+
 #### Explicación del Código
 
 ✤ Primero se debe incluir la biblioteca "<stdio.h>" ya que es la que permitira incluir las funciones "printf" y "scanf" que a su vez son necesarias para escribir los datos de entrada y salida.
@@ -245,6 +254,22 @@ Dentro de la materia he tenido dificultad para adaptarme a los símbolos usados 
 ### ✨✍️ ***Reflexión crítica de los aprendizajes de la unidad***
 
 Para finalizar, en esta unidad he aprendido muchos términos nuevos y los conceptos básicos de la programaci+on, como del pseudocódigo se puede pasar al lenguaje de programación y hacer un programa mucho más avanzado. Esta unidad me ayudo a aprender la lógica que siguen los programas, como se debe estructurarlos y como ser ordenado en todo aspecto mejora mucho la efectividad y eficiencia al momento de realizar alguna tarea.
+
+---
+
+### Anexos
+
+[Actividades PSeint](https://drive.google.com/drive/folders/1RzWP6Gr5CPKaEf53AyLn-GCuPNheCflT?usp=sharing)
+
+[Actividades PSeint Diagramas de Flujo](https://drive.google.com/drive/folders/12pXgqAJp3yEe0kTQveeYL6HXcfKj0qNv?usp=sharing)
+
+[Actividades Programación por Bloques](https://drive.google.com/drive/folders/1BkyhZvw1LZubSUEDsrqpakbkp0FwE_FZ?usp=sharing)
+
+[Ejericicio PSeint/C](https://drive.google.com/drive/folders/1eZEG4GpI1JA795921ehuytX2KHslluqt?usp=sharing)
+
+[Ejercicios de C](https://drive.google.com/drive/folders/1WwCeyrolFfQ_Y8z_QAtsYR6tsRsWBmhv?usp=sharing)
+
+--- 
 
 <p align="right">
   <a href="index.md">Volver a la página principal</a>
