@@ -91,7 +91,7 @@ Son aquellos que describen procesos mediante diagramas, son utilizados para faci
 
 Ahora para demostrar lo que es el diagrama de flujo usaremos el mismo ejemplo que en el pseudocódigo.
 
-<p align="center">
+<p align="left">
   <img src="https://drive.google.com/uc?id=1OI--OIPueuTOHYwLQBicntgUm2ADjmMs" alt="Descripción" width="35%">
 </p>
 
