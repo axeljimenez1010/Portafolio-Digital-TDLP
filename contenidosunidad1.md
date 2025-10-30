@@ -66,8 +66,8 @@ Para demostrar lo que es el pseudocódigo utilizaremos el siguiente problema el 
 | N° | Dinero Disponible | Costo del Producto | Operación | Resultado |
 | :--- | :---: | :---: | :---: | ---: |
 | 1    | $50   | $35   | cambio= 50 - 35 | $15 |
-| 2    | $80   | 25$   | cambio= 80 - 25 | $55 |
-| 3    | $67   | 45$   | cambio= 67 - 45 | $22 |
+| 2    | $80   | $25   | cambio= 80 - 25 | $55 |
+| 3    | $67   | $45   | cambio= 67 - 45 | $22 |
 
 
 ---
