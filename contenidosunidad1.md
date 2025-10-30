@@ -92,6 +92,11 @@ Ahora para demostrar lo que es el diagrama de flujo usaremos el mismo ejemplo qu
 
 En este entorno las instrucciones están escritas en bloques, para construir los programas se deben arrastrar los bloques y juntarlos a otros, este tipo de programación tiene una mayor ventaja que la programación escrita, por el simple hecho de que aqui se evitan los errores de sintaxis muy comunes en lo escrito, es por eso que en este modo de programar el programador se concentra únicamente en la construcción del algoritmo razón por la cual es muy utilizada en institutos de educacion para introducir a los estudiantes a conceptos básicos y al mundo de la progrmacion [4].
 
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1-ElZ1z_ib5P8S3YJVHsf6-lSRKNo1ieb" alt="Descripción" width="75%">
+</p>
+
+
 
 
 ---
