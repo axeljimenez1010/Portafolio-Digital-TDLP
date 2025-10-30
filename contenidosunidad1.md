@@ -21,7 +21,7 @@ El pseudocódigo es la base para entrar al mundo de la programación, porque est
 
 ---
 
-#### ***EJEMPLO PRÁCTICO DEL PSEUDOCÓDIGO***
+#### 📄 *Ejercicio Práctico*
 
 Para demostrar lo que es el pseudocódigo utilizaremos el siguiente problema el cual requiere saber que cambio recibira el consumidor por la compra de un producto:
 
@@ -52,7 +52,7 @@ FinAlgoritmo
 
   ---
 
-#### *Explicación del código:*
+#### 🤓 *Explicación del código:*
 
 ➥ Primero se debe definir las variables, en este caso se definieron como Real las tres variables.
 
@@ -85,7 +85,7 @@ FinAlgoritmo
 
 Son aquellos que describen procesos mediante diagramas, son utilizados para facilitar la lectura de los procesos, estos diagramas utilizan figuras en las cuales cada figura cumple un rol, acompañadas de flechas que ayudan a revisar la secuencia de los pasos [3]. En resumen facilitan la lectura de los procesos y agiliza la toma de decisiones. 
 
-#### *Ejercicio Práctico*
+#### 📄 *Ejercicio Práctico*
 
 Ahora para demostrar lo que es el diagrama de flujo usaremos el mismo ejemplo que en el pseudocódigo.
 
@@ -95,7 +95,7 @@ Ahora para demostrar lo que es el diagrama de flujo usaremos el mismo ejemplo qu
 
 ---
 
-#### *Explicación del diagrama* 
+#### 🤓 *Explicación del diagrama* 
 
 🔵 Muestra la estructura del algoritmo de forma visual.
 
@@ -119,7 +119,7 @@ En este entorno las instrucciones están escritas en bloques, para construir los
 
 ---
 
-#### *Explicación práctica de la programación por bloques*
+#### 🤓 *Explicación práctica de la programación por bloques*
 
 En la imágen se muestra una estructura simple de un algoritmo construido por bloques. En el que se visualizan dos bloques:
 
@@ -168,7 +168,7 @@ FinAlgoritmo
 
 ---
 
-#### Explicación
+#### 🤓 Explicación del código
 
 Para este algoritmo primero se le muestra al usuario el mensaje para que ingrese el valor de su primera nota, y asi llene los dos campos restantes con los valores de las notas, a continuacion viene la fórmula para sacar el promedio que seria sumando las 3 notas y diviendolas para 3 en este caso, con la fórmula planteada procedemos a escribir el mensaje final donde se mostrará el resultado de la operacion, siendo el promedio de las 3 notas.
 
@@ -215,7 +215,7 @@ int main() {
 
 ---
 
-#### Explicación del Código
+#### 🤓 Explicación del Código
 
 ✤ Primero se debe incluir la biblioteca "<stdio.h>" ya que es la que permitira incluir las funciones "printf" y "scanf" que a su vez son necesarias para escribir los datos de entrada y salida.
 
@@ -253,21 +253,21 @@ Dentro de la materia he tenido dificultad para adaptarme a los símbolos usados 
 
 ### ✨✍️ ***Reflexión crítica de los aprendizajes de la unidad***
 
-Para finalizar, en esta unidad he aprendido muchos términos nuevos y los conceptos básicos de la programaci+on, como del pseudocódigo se puede pasar al lenguaje de programación y hacer un programa mucho más avanzado. Esta unidad me ayudo a aprender la lógica que siguen los programas, como se debe estructurarlos y como ser ordenado en todo aspecto mejora mucho la efectividad y eficiencia al momento de realizar alguna tarea.
+Para finalizar, en esta unidad he aprendido muchos términos nuevos y los conceptos básicos de la programación, como del pseudocódigo se puede pasar al lenguaje de programación y hacer un programa mucho más avanzado. Esta unidad me ayudo a aprender la lógica que siguen los programas, como se debe estructurarlos y como ser ordenado en todo aspecto mejora mucho la efectividad y eficiencia al momento de realizar alguna tarea.
 
 ---
 
-### Anexos
+### 📸 *Anexos*
 
-[Actividades PSeint](https://drive.google.com/drive/folders/1RzWP6Gr5CPKaEf53AyLn-GCuPNheCflT?usp=sharing)
+🔎 [Actividades PSeint](https://drive.google.com/drive/folders/1RzWP6Gr5CPKaEf53AyLn-GCuPNheCflT?usp=sharing)
 
-[Actividades PSeint Diagramas de Flujo](https://drive.google.com/drive/folders/12pXgqAJp3yEe0kTQveeYL6HXcfKj0qNv?usp=sharing)
+🔎 [Actividades PSeint Diagramas de Flujo](https://drive.google.com/drive/folders/12pXgqAJp3yEe0kTQveeYL6HXcfKj0qNv?usp=sharing)
 
-[Actividades Programación por Bloques](https://drive.google.com/drive/folders/1BkyhZvw1LZubSUEDsrqpakbkp0FwE_FZ?usp=sharing)
+🔎 [Actividades Programación por Bloques](https://drive.google.com/drive/folders/1BkyhZvw1LZubSUEDsrqpakbkp0FwE_FZ?usp=sharing)
 
-[Ejericicio PSeint/C](https://drive.google.com/drive/folders/1eZEG4GpI1JA795921ehuytX2KHslluqt?usp=sharing)
+🔎 [Ejericicios PSeint/C](https://drive.google.com/drive/folders/1eZEG4GpI1JA795921ehuytX2KHslluqt?usp=sharing)
 
-[Ejercicios de C](https://drive.google.com/drive/folders/1WwCeyrolFfQ_Y8z_QAtsYR6tsRsWBmhv?usp=sharing)
+🔎 [Ejercicios de C](https://drive.google.com/drive/folders/1WwCeyrolFfQ_Y8z_QAtsYR6tsRsWBmhv?usp=sharing)
 
 --- 
 
