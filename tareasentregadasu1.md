@@ -33,7 +33,7 @@ Esta tarea trata de que debíamos realizar nuestro primer algoritmo con ciertas 
 
 En esta tarea tuvimos que realizar un código que permita conocer la nota del certamen 3 para que el estudiante pasara con una nota de 60/100 puntos tanto en PSeint y luego traducirlo a C terminando con un informe de lo realizado.
 
-📄 [Diseño del algoritmo a la construcción del programa](https://drive.google.com/file/d/16zWnIVRX1sjGPKP3dw_2TBxuxkUE91VU/view?usp=sharing)
+📄 [Diseño del algoritmo a la construcción del programa](https://drive.google.com/file/d/1C1asziREV3Pk2BwSK86bsvTs3jR7Jac-/view?usp=sharing)
 
 
 
