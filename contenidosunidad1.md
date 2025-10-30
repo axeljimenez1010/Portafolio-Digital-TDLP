@@ -22,7 +22,10 @@ El pseudocódigo es la base para entrar al mundo de la programación, porque est
 #### ***EJEMPLO PRÁCTICO DEL PSEUDOCÓDIGO***
 
 Para demostrar lo que es el pseudocódigo utilizaremos el siguiente problema el cual requiere saber que cambio recibira el consumidor por la compra de un producto:
-	
+
+```
+Algoritmo cambio_a_recibir
+
 	Definir cambio, cantidadDeDineroDisponible, costoDelProducto Como Real;
 	
 	//Datos de entrada
@@ -40,6 +43,10 @@ Para demostrar lo que es el pseudocódigo utilizaremos el siguiente problema el 
 	//Datos de salida
 	
 	Escribir "El cambio a recibir por la compra del producto es: ", cambio;
+
+FinAlgoritmo
+
+```
 
   ---
 
@@ -112,6 +119,7 @@ En este entorno las instrucciones están escritas en bloques, para construir los
 En la imágen se muestra una estructura simple de un algoritmo construido por bloques. En el que se visualizan dos bloques:
 
 ☑️ Bloque de Inicio: Es el bloque de verde, quien es el que da comienzo a la ejecucion del programa, cuando se haga clic a ejectuar, todo lo que este dentro o conectado al bloque de verde dara inicio su ejecución.
+
 ☑️ Bloques de accion: En este caso son los 6 bloques verdes contenidos en el bloque de inicio, son los bloques que le dan las instrucciones individuales las cuales el personaje realizará para moverse dentro del campo.
 
 La forma en que estan apilados los bloques (de abajo hacia arriba) demuestran la secuencia y el orden en el que se ejecutara cada acción.
@@ -123,8 +131,106 @@ La forma en que estan apilados los bloques (de abajo hacia arriba) demuestran la
 
 Para esta sección elegí un algoritmo que permita calcular el promedio de las notas de un estudiante, pasará de estar escrito en PSeint al lenguaje de programación C.
 
+Algoritmo en PSeint:
+
+```
+Algoritmo promedioNotas
+	
+	Definir nota1, nota2, nota3, promedio como Real;
+	
+	//Datos de entrada
+	
+	Escribir "Ingresa el valor de la nota 1: ";
+	Leer nota1;
+	
+	Escribir "Ingresa el valor de la nota 2: ";
+	Leer nota2;
+	
+	Escribir "Ingrese el valor de la nota 3: ";
+	Leer nota3;
+	
+	//Proceso 
+	
+	promedio = (nota1 + nota2 + nota3) / 3;
+	
+	//Datos de salida
+	
+	Escribir "EL promedio de las notas es: ", promedio;
+
+FinAlgoritmo
+
+```
+
+#### Explicación
+
+Para este algoritmo primero se le muestra al usuario el mensaje para que ingrese el valor de su primera nota, y asi llene los dos campos restantes con los valores de las notas, a continuacion viene la fórmula para sacar el promedio que seria sumando las 3 notas y diviendolas para 3 en este caso, con la fórmula planteada procedemos a escribir el mensaje final donde se mostrará el resultado de la operacion, siendo el promedio de las 3 notas.
+
+---
+
+### Código en C
+
+```
+#include <stdio.h>
+
+int main() {
 
 
+    float nota1;
+    float nota2;
+    float nota3;
+    float promedio;
+
+    //Datos de Entrada
+
+    printf("Ingrese el valor de la nota 1: \n");
+    scanf("%f", &nota1);
+
+    printf("Ingrese el valor de la nota 2: \n");
+    scanf("%f", &nota2);
+
+    printf("Ingrese el valor de la nota 3: \n");
+    scanf("%f", &nota3);
+
+    //Proceso 
+
+    promedio = (nota1 + nota2 + nota3) / 3;
+
+    //Datos de Salida
+
+    printf("El valor del promedio de las notas es: %f\n", promedio);
+
+    return 0;
+
+
+}
+
+```
+
+#### Explicación del Código
+
+✤ Primero se debe incluir la biblioteca "<stdio.h>" ya que es la que permitira incluir las funciones "printf" y "scanf" que a su vez son necesarias para escribir los datos de entrada y salida.
+
+✤ Luego se escribira "int main() {" que viene siendo el iniciador del programa, ya que "main" es el nombre de la función de C que permite el inicio y ejecución de todo lo que este escrito dentro de las llaves, cabe recalcar que en cada línea del código se terminara con un ";" que quiere decir que hasta ahi termina la instrucción.
+
+✤ Como en PSeint primero se define las variables, pero en C hay un ligero cambio, ya que aqui primero se pone que tipo de variable será y luego el nombre de la variable, existen diferentes tipos de variables (int, float, double, char, bool).
+
+✤ Continuando con el proceso ahora vienen los datos de entrada, en donde se usara "printf()" y "scanf()", el printf es similar al "Escribir" de PSeint, y el scanf es parecido al "Leer". En la linea del printf se usa "\n" para ejecutar un tipo de enter y la proxima función scanf se muestre debajo del texto, en esta función se usa la máscara "%f" para decirle al programa que se espera un valor tipo "float", seguido de esto se pone una coma, luego de la coma ira el simbolo "&" que le dice al programa que guarde el valor escrito por el usuario dentro de la varibale escrita luego de dicho simbolo.
+
+✤ Una vez escrita esa parte se puede escribir la formula que resolvera el problema, aqui no hay mayor cambio con respecto a C, se escribe la variable seguido de un igual y luego el procedimiento que dara el valor que se asignara a la variable.
+
+✤ Ahora vienen los datos de salida, usamos igualmente printf, pero hay un cambio ya que luego de escribir el mensaje final se escribe la máscara "%f" que es como si diera un espacio reservado para el resultado, seguido de esto se pone una coma y la variable, con eso se le dira a printf que variable debe ir en el espacio reservado por la máscara escrita previamente.
+
+✤ Por último el "return 0;" le dice el programa que "main" termino sin problemas, y se cierra el código con "}" (Continuacion de la llave del inicio).
+
+---
+
+#### Pruebas de escritorio 
+
+| N°1 | Nota 1 | Nota 2 | Nota 3 | Proceso | Resultado |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | 8.9 | 9.9 | 6.9 | promedio = (8.9 + 9.9 + 6.9) / 3 | 8.56 |
+| 2 | 10 | 7.55 | 8.9 | promedio =(10 + 7.55 + 8.9) / 3 | 8.81 |
+| 3 | 9.5 | 4.6 | 7.7 | promedio = (9.5 + 4.6 + 7.7) / 3| 7.26 |
 
 
 ---
