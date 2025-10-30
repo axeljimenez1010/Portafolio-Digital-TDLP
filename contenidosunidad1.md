@@ -1,6 +1,6 @@
-## 💾📝CONTENIDOS DE LA UNIDAD
+## 💾📝CONTENIDOS DE LA UNIDAD 1
 
-### 🚪🧠Algoritmos, pseudocódigo, diagramas de flujo
+### 🚪🧠 ***Algoritmos, pseudocódigo, diagramas de flujo***
 
 Los algoritmos son pasos secuenciales que siguen una lógica, que permiten resolver problemas específicos.
 Estos algoritmos se dividen en dos categorías: 
@@ -13,11 +13,13 @@ Son los que se concentran en el "qué" de las cosas, los pasos de estos algoritm
 
 Son los algoritmos que usan las fórmulas algebraicas y cálculos númericos para resolver los problemas que sean propuestos como sumas, restas, multiplicaciones, divisiones [2].
 
-#### 📝🧠 Pseudocódigo 
+---
+
+ #### 📝🧠 ***Pseudocódigo***
 
 El pseudocódigo es la base para entrar al mundo de la programación, porque este programa es utilizado en escuelas, colegios, universidades. Permite escribir instrucciones en nuestro lenguaje a un lenguaje en el que la computadora logre entenderlo y procese lo que necesitamos para resolver los problemas que propongamos.
 
-#### Ejercicio Práctico
+#### *Ejercicio Práctico*
 
 Para demostrar lo que es el pseudocódigo utilizaremos el siguiente problema el cual requiere saber que cambio recibira el consumidor por la compra de un producto:
 	
@@ -38,9 +40,10 @@ Para demostrar lo que es el pseudocódigo utilizaremos el siguiente problema el 
 	//Datos de salida
 	
 	Escribir "El cambio a recibir por la compra del producto es: ", cambio;
-	
 
-#### Explicación del código:
+
+
+#### *Explicación del código:*
 
 ➥ Primero se debe definir las variables, en este caso se definieron como Real las tres variables.
 
@@ -54,15 +57,15 @@ Para demostrar lo que es el pseudocódigo utilizaremos el siguiente problema el 
 
 ➥ Definidas las variables continuaremos con el cálculo, escribimos la variable, luego de eso un "=" lo que significa que lo escrito luego de ese igual es el valor que se le asignara a la variable, en este caso una resta para encontrar el valor del cambio a recibir.
 
-➥ Definida la fórmula que dara el resultado, volveremos a usar la funcion "Escribir" para mostrar el mensaje final, seprando con una coma y luego la variable, lo cual  mostrara al usuario el resultado de la operación, en este caso, el cambio que recibira por la compra de su producto
+➥ Definida la fórmula que dara el resultado, volveremos a usar la funcion "Escribir" para mostrar el mensaje final, seprando con una coma y luego la variable, lo cual  mostrara al usuario el resultado de la operación, en este caso, el cambio que recibirá por la compra de su producto.
 
+---
 
-
-#### 💠👇🌊 Diagrama de flujo
+#### 💠👇🌊 ***Diagrama de flujo***
 
 Son aquellos que describen procesos mediante diagramas, son utilizados para facilitar la lectura de los procesos, estos diagramas utilizan figuras en las cuales cada figura cumple un rol, acompañadas de flechas que ayudan a revisar la secuencia de los pasos [3]. En resumen facilitan la lectura de los procesos y agiliza la toma de decisiones. 
 
-#### Ejercicio Práctico
+#### *Ejercicio Práctico*
 
 Ahora para demostrar lo que es el diagrama de flujo usaremos el mismo ejemplo que en el pseudocódigo.
 
@@ -71,13 +74,21 @@ Ahora para demostrar lo que es el diagrama de flujo usaremos el mismo ejemplo qu
 </p>
 
 
-#### Explicación del diagrama 
+#### *Explicación del diagrama* 
 
-Funciona igual que en el pseudocódigo, únicamente que muestra la estructura del algoritmo de fomra visual, en la que el cuadrado representa "asignar", y los paralelogramos funcionan tanto como "Escribir " que sería el paralelogramo en verde y "Leer" que sería el paralelogramo en rojo, la flechas demuestran el flujo del algoritmo.
+🔵 Muestra la estructura del algoritmo de forma visual.
+
+🔵 Las cajas punteadas de gris representan  las anotaciones o comentarios.
+
+🔵 La figura del rectángulo representa la función "Asignar".
+
+🔵 Las figuras de paralelogramos funcionan tanto como la función "Escribir " que sería el paralelogramo en verde y la función "Leer" que sería el paralelogramo en rojo.
+
+🔵 Las flechas demuestran el flujo y secuencia que sigue el algoritmo.
 
 ---
 
-### 🦺🧱 Programacion por bloques 
+### 🦺🧱 ***Programación por bloques*** 
 
 En este entorno las instrucciones están escritas en bloques, para construir los programas se deben arrastrar los bloques y juntarlos a otros, este tipo de programación tiene una mayor ventaja que la programación escrita, por el simple hecho de que aqui se evitan los errores de sintaxis muy comunes en lo escrito, es por eso que en este modo de programar el programador se concentra únicamente en la construcción del algoritmo razón por la cual es muy utilizada en institutos de educacion para introducir a los estudiantes a conceptos básicos y al mundo de la progrmacion [4].
 
@@ -85,7 +96,7 @@ En este entorno las instrucciones están escritas en bloques, para construir los
 
 ---
 
-### 💡Ejemplos de algoritmos con estructuras lineales/secuenciales
+### 💡***Ejemplos de algoritmos con estructuras lineales/secuenciales***
 
 Para esta sección elegí un algoritmo que permita calcular el promedio de las notas de un estudiante, pasará de estar escrito en PSeint al lenguaje de programación C.
 
@@ -95,14 +106,14 @@ Para esta sección elegí un algoritmo que permita calcular el promedio de las n
 
 ---
 
-### 🤔🛑Principales dificultades en la aplicación de los contenidos
+### 🤔🛑 ***Principales dificultades en la aplicación de los contenidos***
 
 Dentro de la materia he tenido dificultad para adaptarme a los símbolos usados tanto en PSeint como en el lenguaje de C, además de eso cuando escribía mi código en C a veces no compilaba, y se me complico un poco usar los nuevos términos de C ya que en PSeint se escribe con términos diferentes y que en C se escribe las líneas de código en inglés mientras que en PSeint se lo hace en español.
 
 ---
 
 
-### ✨✍️ Reflexión crítica de los aprendizajes de la unidad
+### ✨✍️ ***Reflexión crítica de los aprendizajes de la unidad***
 
 Para finalizar, en esta unidad he aprendido muchos términos nuevos y los conceptos básicos de la programaci+on, como del pseudocódigo se puede pasar al lenguaje de programación y hacer un programa mucho más avanzado. Esta unidad me ayudo a aprender la lógica que siguen los programas, como se debe estructurarlos y como ser ordenado en todo aspecto mejora mucho la efectividad y eficiencia al momento de realizar alguna tarea.
 
