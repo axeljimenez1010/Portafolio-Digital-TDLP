@@ -72,6 +72,8 @@ FinAlgoritmo
 
 #### *Pruebas de Escritorio*
 
+<p style="text-align:center; font-size:12px;">Tabla I. Prueba de escritorio para el Cálculo del Cambio (Elaboración propia).</p>
+
 | N° | Dinero Disponible | Costo del Producto | Operación | Resultado |
 | :--- | :---: | :---: | :---: | ---: |
 | 1    | $50   | $35   | cambio= 50 - 35 | $15 |
@@ -116,6 +118,7 @@ En este entorno las instrucciones están escritas en bloques, para construir los
 <p align="center">
   <img src="https://drive.google.com/uc?id=1-ElZ1z_ib5P8S3YJVHsf6-lSRKNo1ieb" alt="Descripción" width="75%">
 </p>
+
 
 ---
 
