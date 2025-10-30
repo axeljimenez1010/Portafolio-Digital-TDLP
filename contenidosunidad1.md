@@ -107,7 +107,14 @@ En este entorno las instrucciones están escritas en bloques, para construir los
   <img src="https://drive.google.com/uc?id=1-ElZ1z_ib5P8S3YJVHsf6-lSRKNo1ieb" alt="Descripción" width="75%">
 </p>
 
+#### *Explicación práctica de la programación por bloques*
 
+En la imágen se muestra una estructura simple de un algoritmo construido por bloques. En el que se visualizan dos bloques:
+
+☑️ Bloque de Inicio: Es el bloque de verde, quien es el que da comienzo a la ejecucion del programa, cuando se haga clic a ejectuar, todo lo que este dentro o conectado al bloque de verde dara inicio su ejecución.
+☑️ Bloques de accion: En este caso son los 6 bloques verdes contenidos en el bloque de inicio, son los bloques que le dan las instrucciones individuales las cuales el personaje realizará para moverse dentro del campo.
+
+La forma en que estan apilados los bloques (de abajo hacia arriba) demuestran la secuencia y el orden en el que se ejecutara cada acción.
 
 
 ---
