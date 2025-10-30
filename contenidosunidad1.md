@@ -19,6 +19,8 @@ Son los algoritmos que usan las fórmulas algebraicas y cálculos númericos par
 
 El pseudocódigo es la base para entrar al mundo de la programación, porque este programa es utilizado en escuelas, colegios, universidades. Permite escribir instrucciones en nuestro lenguaje a un lenguaje en el que la computadora logre entenderlo y procese lo que necesitamos para resolver los problemas que propongamos.
 
+[Explicación Práctica del Pseudocódigo](explicaciónPseudocódigo.md)
+
 
 ---
 
