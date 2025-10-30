@@ -8,7 +8,8 @@ Dentro de están sección estan todas las tareas que fueron enviadas mediante el
 
 Esta tarea consistía en consultar herramientas digitales para escribir pseudocódigos y realizar diagramas de flujo, además de adjuntar evidencias de un algoritmo realizado en estas herramientas.
 
-📄 [Herramientas Digitales](https://drive.google.com/drive/folders/1X5NCdN1hKoXCCk2dOVLU-mDzCMEmDvir?usp=sharing)
+📄 [Herramientas Digitales](https://drive.google.com/file/d/1uubCDzd9-oaNhC8Ws3U-SBO4YWBCDPWS/view?usp=sharing)
+
 
 ---
 
@@ -16,7 +17,7 @@ Esta tarea consistía en consultar herramientas digitales para escribir pseudoc�
 
 Esta tarea consistía en que debíamos descargar cualquier lenguaje de programación y documentar paso a paso con evidencia gráfica el proceso de instalación.
 
-📄 [Instalación de Lenguajes de Programación](https://drive.google.com/drive/folders/1nQe4iaC0pK7tX4AbUnoqGPDRDd9D8o3o?usp=sharing)
+📄 [Instalación de Lenguajes de Programación](https://drive.google.com/file/d/1wJ7ftDC6kfi8Z67DZuVQQ8SSiuY2liYE/view?usp=sharing)
 
 ---
 
@@ -24,7 +25,7 @@ Esta tarea consistía en que debíamos descargar cualquier lenguaje de programac
 
 Esta tarea trata de que debíamos realizar nuestro primer algoritmo con ciertas condiciones para calcular el IMC de una persona mediante la aplicación de PSeint.
 
-📄 [Construcción del algoritmo](https://drive.google.com/drive/folders/1fLvkMQGx7qIG7GG2IDmFKD7n0giGZNzF?usp=sharing)
+📄 [Construcción del algoritmo](https://drive.google.com/file/d/16zWnIVRX1sjGPKP3dw_2TBxuxkUE91VU/view?usp=sharing)
 
 ---
 
