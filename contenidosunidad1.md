@@ -70,7 +70,7 @@ FinAlgoritmo
 
 ---
 
-#### *Pruebas de Escritorio*
+#### 📋 *Pruebas de Escritorio*
 
 <p style="text-align:center; font-size:12px;">Tabla I. Prueba de escritorio para el Cálculo del Cambio (Elaboración propia).</p>
 
@@ -95,9 +95,12 @@ Ahora para demostrar lo que es el diagrama de flujo usaremos el mismo ejemplo qu
   <img src="https://drive.google.com/uc?id=1OI--OIPueuTOHYwLQBicntgUm2ADjmMs" alt="Descripción" width="35%">
 </p>
 
+<p style="text-align:center; font-size:12px;">Fig. 2. Diagrama de Flujo para el Cálculo del Cambio (Elaboración Propia). </p>
+
 ---
 
 #### 🤓 *Explicación del diagrama* 
+
 
 🔵 Muestra la estructura del algoritmo de forma visual.
 
@@ -115,10 +118,11 @@ Ahora para demostrar lo que es el diagrama de flujo usaremos el mismo ejemplo qu
 
 En este entorno las instrucciones están escritas en bloques, para construir los programas se deben arrastrar los bloques y juntarlos a otros, este tipo de programación tiene una mayor ventaja que la programación escrita, por el simple hecho de que aqui se evitan los errores de sintaxis muy comunes en lo escrito, es por eso que en este modo de programar el programador se concentra únicamente en la construcción del algoritmo razón por la cual es muy utilizada en institutos de educacion para introducir a los estudiantes a conceptos básicos y al mundo de la progrmacion [4].
 
-<p align="center">
+<p align="left">
   <img src="https://drive.google.com/uc?id=1-ElZ1z_ib5P8S3YJVHsf6-lSRKNo1ieb" alt="Descripción" width="75%">
 </p>
 
+<p style="text-align:center; font-size:12px;">Fig. 3. Desafío "El Gato en la Calle" [6]. </p>
 
 ---
 
@@ -139,7 +143,7 @@ La forma en que estan apilados los bloques (de abajo hacia arriba) demuestran la
 
 Para esta sección elegí un algoritmo que permita calcular el promedio de las notas de un estudiante, pasará de estar escrito en PSeint al lenguaje de programación C.
 
-Algoritmo en PSeint:
+### ⚒️ Algoritmo en PSeint:
 
 ```
 Algoritmo promedioNotas
@@ -177,7 +181,7 @@ Para este algoritmo primero se le muestra al usuario el mensaje para que ingrese
 
 ---
 
-### Código en C
+### 🛠️ Código en C
 
 ```
 #include <stdio.h>
@@ -236,7 +240,9 @@ int main() {
 
 ---
 
-#### Pruebas de escritorio 
+#### 📋 *Pruebas de escritorio*
+
+<p style="text-align:center; font-size:12px;">Tabla II. Prueba de escritorio para el Cálculo del Promedio de notas (Elaboración propia).</p>
 
 | N°1 | Nota 1 | Nota 2 | Nota 3 | Proceso | Resultado |
 | :--- | :--- | :--- | :--- | :--- | :--- |
