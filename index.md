@@ -59,9 +59,9 @@ Para este portafolio he usado las siguientes referencias bibliográficas:
 
 [4] H. C. Ahumada, D. A. Rivas, N. Contreras, M. del V. Miranda, y M. V. Poliche, "Pensamiento computacional mediante programación por bloques: intervención didáctica usando pilas bloques," presentado en el XIII Congreso de Tecnología en Educación y Educación en Tecnología, Posadas, 2018. [Online]. Disponible: https://sedici.unlp.edu.ar/handle/10915/68910 [Accedido: Oct. 25, 2025].
 
-[5] Universidad Nacional de Loja, "Logo Institucional," unl.edu.ec, s.f. [En línea]. Disponible: https://unl.edu.ec/
+[5] Universidad Nacional de Loja, "Logo Institucional," unl.edu.ec, s.f. [Online]. Disponible: https://unl.edu.ec/
 
-[6] Fundación Sadosky, "Desafío: El gato en la calle," Pilas Bloques, s.f. [En línea]. Disponible: https://pilasbloques.program.ar/online/#/desafio/206
+[6] Fundación Sadosky, "Desafío: El gato en la calle," Pilas Bloques, s.f. [Online]. Disponible: https://pilasbloques.program.ar/online/#/desafio/206
 
 ---
 
