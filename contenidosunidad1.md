@@ -11,7 +11,7 @@ Son los que se concentran en el "qué" de las cosas, los pasos de estos algoritm
 
 ##### 🔢 Algoritmos Cuantitativos
 
-Son los algoritmos que usan las fórmulas algebraicas y cálculos númericos para resolver los problemas que sean propuestos como sumas, restas, multiplicaciones, divisiones [2].
+Son los algoritmos que usan las fórmulas algebraicas y cálculos numéricos para resolver los problemas que sean propuestos como sumas, restas, multiplicaciones, divisiones [2].
 
 ---
 
@@ -23,7 +23,7 @@ El pseudocódigo es la base para entrar al mundo de la programación, porque est
 
 #### 📄 *Ejercicio Práctico*
 
-Para demostrar lo que es el pseudocódigo utilizaremos el siguiente problema el cual requiere saber que cambio recibira el consumidor por la compra de un producto:
+Para demostrar lo que es el pseudocódigo utilizaremos el siguiente problema el cual requiere saber qué cambio recibirá el consumidor por la compra de un producto:
 
 ```
 Algoritmo cambio_a_recibir
@@ -56,17 +56,17 @@ FinAlgoritmo
 
 ➥ Primero se debe definir las variables, en este caso se definieron como Real las tres variables.
 
-➥ Dentro del código se veran "//" es una función la cual permite escribir comentarios por ejemplo de guía, estos comentarios no afectan en la ejecución del programa.
+➥ Dentro del código se verán "//" es una función la cual permite escribir comentarios por ejemplo de guía, estos comentarios no afectan en la ejecución del programa.
 
-➥ Como segundo paso usaremos la funcion "Escribir" que lo que hara es mostrar el texto guia para que el usuario vea que tiene que anotar en ese apartado.
+➥ Como segundo paso usaremos la función "Escribir" que lo que hara es mostrar el texto guía para que el usuario vea que tiene que anotar en ese apartado.
 
-➥ El tercer paso es  usar la funcion "Leer" y luego la variable a la cual será asignada el dato que el usuario lo escribirá en ese apartado.
+➥ El tercer paso es  usar la función "Leer" y luego la variable a la cual será asignada el dato que el usuario lo escribirá en ese apartado.
 
-➥ En el cuarto paso se repetira lo mismo del paso 2 y 3 en el mismo orden, únicamente cambiando el mensaje a mostrar y la variable.
+➥ En el cuarto paso se repetirá lo mismo del paso 2 y 3 en el mismo orden, únicamente cambiando el mensaje a mostrar y la variable.
 
-➥ Definidas las variables continuaremos con el cálculo, escribimos la variable, luego de eso un "=" lo que significa que lo escrito luego de ese igual es el valor que se le asignara a la variable, en este caso una resta para encontrar el valor del cambio a recibir.
+➥ Definidas las variables continuaremos con el cálculo, escribimos la variable, luego de eso un "=" lo que significa que lo escrito luego de ese igual es el valor que se le asignará a la variable, en este caso una resta para encontrar el valor del cambio a recibir.
 
-➥ Definida la fórmula que dara el resultado, volveremos a usar la funcion "Escribir" para mostrar el mensaje final, seprando con una coma y luego la variable, lo cual  mostrara al usuario el resultado de la operación, en este caso, el cambio que recibirá por la compra de su producto.
+➥ Definida la fórmula que dará el resultado, volveremos a usar la función "Escribir" para mostrar el mensaje final, separando con una coma y luego la variable, lo cual  mostrará al usuario el resultado de la operación, en este caso, el cambio que recibirá por la compra de su producto.
 
 ---
 
@@ -116,7 +116,7 @@ Ahora para demostrar lo que es el diagrama de flujo usaremos el mismo ejemplo qu
 
 ### 🦺🧱 ***Programación por bloques*** 
 
-En este entorno las instrucciones están escritas en bloques, para construir los programas se deben arrastrar los bloques y juntarlos a otros, este tipo de programación tiene una mayor ventaja que la programación escrita, por el simple hecho de que aqui se evitan los errores de sintaxis muy comunes en lo escrito, es por eso que en este modo de programar el programador se concentra únicamente en la construcción del algoritmo razón por la cual es muy utilizada en institutos de educacion para introducir a los estudiantes a conceptos básicos y al mundo de la progrmacion [4].
+En este entorno las instrucciones están escritas en bloques, para construir los programas se deben arrastrar los bloques y juntarlos a otros, este tipo de programación tiene una mayor ventaja que la programación escrita, por el simple hecho de que aquí se evitan los errores de sintaxis muy comunes en lo escrito, es por eso que en este modo de programar el programador se concentra únicamente en la construcción del algoritmo razón por la cual es muy utilizada en institutos de educación para introducir a los estudiantes a conceptos básicos y al mundo de la progrmación [4].
 
 <p align="left">
   <img src="https://drive.google.com/uc?id=1-ElZ1z_ib5P8S3YJVHsf6-lSRKNo1ieb" alt="Descripción" width="75%">
@@ -128,13 +128,13 @@ En este entorno las instrucciones están escritas en bloques, para construir los
 
 #### 🤓 *Explicación práctica de la programación por bloques*
 
-En la imágen se muestra una estructura simple de un algoritmo construido por bloques. En el que se visualizan dos bloques:
+En la imagen se muestra una estructura simple de un algoritmo construido por bloques. En el que se visualizan dos bloques:
 
-☑️ Bloque de Inicio: Es el bloque de verde, quien es el que da comienzo a la ejecucion del programa, cuando se haga clic a ejectuar, todo lo que este dentro o conectado al bloque de verde dara inicio su ejecución.
+☑️ Bloque de Inicio: Es el bloque de verde, quien es el que da comienzo a la ejecución del programa, cuando se haga clic a ejecutar, todo lo que esté dentro o conectado al bloque de verde dará inicio su ejecución.
 
-☑️ Bloques de accion: En este caso son los 6 bloques verdes contenidos en el bloque de inicio, son los bloques que le dan las instrucciones individuales las cuales el personaje realizará para moverse dentro del campo.
+☑️ Bloques de acción: En este caso son los 6 bloques verdes contenidos en el bloque de inicio, son los bloques que le dan las instrucciones individuales las cuales el personaje realizará para moverse dentro del campo.
 
-La forma en que estan apilados los bloques (de abajo hacia arriba) demuestran la secuencia y el orden en el que se ejecutara cada acción.
+La forma en que están apilados los bloques (de abajo hacia arriba) demuestran la secuencia y el orden en el que se ejecutará cada acción.
 
 
 ---
@@ -177,7 +177,7 @@ FinAlgoritmo
 
 #### 🤓 Explicación del código
 
-Para este algoritmo primero se le muestra al usuario el mensaje para que ingrese el valor de su primera nota, y asi llene los dos campos restantes con los valores de las notas, a continuacion viene la fórmula para sacar el promedio que seria sumando las 3 notas y diviendolas para 3 en este caso, con la fórmula planteada procedemos a escribir el mensaje final donde se mostrará el resultado de la operacion, siendo el promedio de las 3 notas.
+Para este algoritmo primero se le muestra al usuario el mensaje para que ingrese el valor de su primera nota, y así llene los dos campos restantes con los valores de las notas, a continuación viene la fórmula para sacar el promedio que sería sumando las 3 notas y dividiéndolas para 3 en este caso, con la fórmula planteada procedemos a escribir el mensaje final donde se mostrará el resultado de la operación, siendo el promedio de las 3 notas.
 
 ---
 
@@ -224,19 +224,19 @@ int main() {
 
 #### 🤓 Explicación del Código
 
-✤ Primero se debe incluir la biblioteca "<stdio.h>" ya que es la que permitira incluir las funciones "printf" y "scanf" que a su vez son necesarias para escribir los datos de entrada y salida.
+✤ Primero se debe incluir la biblioteca "<stdio.h>" ya que es la que permitirá incluir las funciones "printf" y "scanf" que a su vez son necesarias para escribir los datos de entrada y salida.
 
-✤ Luego se escribira "int main() {" que viene siendo el iniciador del programa, ya que "main" es el nombre de la función de C que permite el inicio y ejecución de todo lo que este escrito dentro de las llaves, cabe recalcar que en cada línea del código se terminara con un ";" que quiere decir que hasta ahi termina la instrucción.
+✤ Luego se escribirá "int main() {" que viene siendo el iniciador del programa, ya que "main" es el nombre de la función de C que permite el inicio y ejecución de todo lo que esté escrito dentro de las llaves, cabe recalcar que en cada línea del código se terminará con un ";" que quiere decir que hasta ahí termina la instrucción.
 
-✤ Como en PSeint primero se define las variables, pero en C hay un ligero cambio, ya que aqui primero se pone que tipo de variable será y luego el nombre de la variable, existen diferentes tipos de variables (int, float, double, char, bool).
+✤ Como en PSeint primero se define las variables, pero en C hay un ligero cambio, ya que aquí primero se pone qué tipo de variable será y luego el nombre de la variable, existen diferentes tipos de variables (int, float, double, char, bool).
 
-✤ Continuando con el proceso ahora vienen los datos de entrada, en donde se usara "printf()" y "scanf()", el printf es similar al "Escribir" de PSeint, y el scanf es parecido al "Leer". En la linea del printf se usa "\n" para ejecutar un tipo de enter y la proxima función scanf se muestre debajo del texto, en esta función se usa la máscara "%f" para decirle al programa que se espera un valor tipo "float", seguido de esto se pone una coma, luego de la coma ira el simbolo "&" que le dice al programa que guarde el valor escrito por el usuario dentro de la varibale escrita luego de dicho simbolo.
+✤ Continuando con el proceso ahora vienen los datos de entrada, en donde se usará "printf()" y "scanf()", el printf es similar al "Escribir" de PSeint, y el scanf es parecido al "Leer". En la línea del printf se usa "\n" para ejecutar un tipo de enter y la próxima función scanf se muestre debajo del texto, en esta función se usa la máscara "%f" para decirle al programa que se espera un valor tipo "float", seguido de esto se pone una coma, luego de la coma irá el símbolo "&" que le dice al programa que guarde el valor escrito por el usuario dentro de la varibale escrita luego de dicho simbolo.
 
-✤ Una vez escrita esa parte se puede escribir la formula que resolvera el problema, aqui no hay mayor cambio con respecto a C, se escribe la variable seguido de un igual y luego el procedimiento que dara el valor que se asignara a la variable.
+✤ Una vez escrita esa parte se puede escribir la fórmula que resolvera el problema, aqui no hay mayor cambio con respecto a C, se escribe la variable seguido de un igual y luego el procedimiento que dará el valor que se asignará a la variable.
 
-✤ Ahora vienen los datos de salida, usamos igualmente printf, pero hay un cambio ya que luego de escribir el mensaje final se escribe la máscara "%f" que es como si diera un espacio reservado para el resultado, seguido de esto se pone una coma y la variable, con eso se le dira a printf que variable debe ir en el espacio reservado por la máscara escrita previamente.
+✤ Ahora vienen los datos de salida, usamos igualmente printf, pero hay un cambio ya que luego de escribir el mensaje final se escribe la máscara "%f" que es como si diera un espacio reservado para el resultado, seguido de esto se pone una coma y la variable, con eso se le dirá a printf qué variable debe ir en el espacio reservado por la máscara escrita previamente.
 
-✤ Por último el "return 0;" le dice el programa que "main" termino sin problemas, y se cierra el código con "}" (Continuacion de la llave del inicio).
+✤ Por último el "return 0;" le dice el programa que "main" terminó sin problemas, y se cierra el código con "}" (Continuación de la llave del inicio).
 
 ---
 
@@ -255,14 +255,14 @@ int main() {
 
 ### 🤔🛑 ***Principales dificultades en la aplicación de los contenidos***
 
-Dentro de la materia he tenido dificultad para adaptarme a los símbolos usados tanto en PSeint como en el lenguaje de C, además de eso cuando escribía mi código en C a veces no compilaba, y se me complico un poco usar los nuevos términos de C ya que en PSeint se escribe con términos diferentes y que en C se escribe las líneas de código en inglés mientras que en PSeint se lo hace en español.
+Dentro de la materia he tenido dificultad para adaptarme a los símbolos usados tanto en PSeint como en el lenguaje de C, además de eso cuando escribía mi código en C a veces no compilaba, y se me complicó un poco usar los nuevos términos de C ya que en PSeint se escribe con términos diferentes y que en C se escribe las líneas de código en inglés mientras que en PSeint se lo hace en español.
 
 ---
 
 
 ### ✨✍️ ***Reflexión crítica de los aprendizajes de la unidad***
 
-Para finalizar, en esta unidad he aprendido muchos términos nuevos y los conceptos básicos de la programación, como del pseudocódigo se puede pasar al lenguaje de programación y hacer un programa mucho más avanzado. Esta unidad me ayudo a aprender la lógica que siguen los programas, como se debe estructurarlos y como ser ordenado en todo aspecto mejora mucho la efectividad y eficiencia al momento de realizar alguna tarea.
+Para finalizar, en esta unidad he aprendido muchos términos nuevos y los conceptos básicos de la programación, como del pseudocódigo se puede pasar al lenguaje de programación y hacer un programa un poco más avanzado. Esta unidad me ayudó a aprender la lógica que siguen los programas, cómo se debe estructurarlos y como ser ordenado en todo aspecto mejora mucho la efectividad y eficiencia al momento de realizar alguna tarea.
 
 ---
 
