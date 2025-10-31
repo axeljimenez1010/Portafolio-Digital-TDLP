@@ -67,4 +67,4 @@ Para este portafolio he usado las siguientes referencias bibliográficas:
 
 ### 🤖 Uso de la IA Generativa
 
-Se ha usado la IA "Google Gemini", para pedir consejos e ideas de cómo mejorar la estructura del portafolio, mejorar la estética y hacerlo más agradable visualmente, para pedir información extra que no estaba en las páginas referenciadas, y formar ideas a partir del concepto que generaba la IA.
+Se ha usado la IA "Google Gemini", para pedir consejos e ideas de cómo mejorar la estructura del portafolio, mejorar la estética y hacerlo más agradable visualmente, para pedir información extra que no estaba en las páginas referenciadas, formar ideas a partir del concepto que generaba la IA, revisar faltas de ortografía.
