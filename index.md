@@ -4,7 +4,7 @@
   <img src="https://univercimas.com/wp-content/uploads/2021/04/Universidad-Nacional-de-Loja-UNL.png" alt="Descripción" width="25%">
 </p>
 
-<p style="text-align:center; font-size:12px;">Fig. 1. Logo Universidad. [5]</p>
+<p style="text-align:center; font-size:12px;">Fig. 1. Logo Universidad [5].</p>
 
 ### 🖥️ CARRERA: Computación
 
