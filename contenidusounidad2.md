@@ -50,7 +50,7 @@ int main( ){
 
 #### Explicación:
 
-Como se puede observar en el diagrama de flujo, el algoritmo empieza definiendo las variables, luego le pide al usuario ingresar el valor de su compra, a continuación sigue con la condición, que evalua si el valor de la compra es mayor o igual a 100. Si determina que sí lo es, ingresa en el camino de la derecha y muestra el mensaje del descuento, continuando realiza los calculos para aplicar el 20% al valor de la compra y mostrar el mensaje final.
+Como se puede observar en el diagrama de flujo, el algoritmo empieza definiendo las variables, luego le pide al usuario ingresar el valor de su compra, a continuación sigue con la condición, que evalua si el valor de la compra es mayor o igual a 100. Si determina que sí lo es, ingresa en el camino de la derecha y muestra el mensaje del descuento, continuando realiza los calculos para aplicar el descuento del 20% al valor de la compra y mostrar el mensaje final.
 
 Si determina que la compra es menor a 100 doláres, ignora el "if" y muestra el mensaje final.
 
