@@ -8,7 +8,14 @@
 
 Esta estructuras se la denomina simple por que evalua una sola condición, si determina que es verdadera ejecuta la instruccion dentro de la condición, si es falsa, lo ignora y continua con el resto de código que no este en la condición.
 
-##### Ejemplo en C:
+##### Ejemplo Práctico:
+
+###### Diagrama de Flujo:
+
+https://drive.google.com/uc?export=view&id=1klfSlSxzLzeBvJfXfmoRLSHExsnr0s8V
+
+
+```
 
 #include <stdio.h>
 
@@ -33,4 +40,9 @@ int main( ){
 
 }
 
+```
+
+#### Explicación:
+
+En este código primero pedimos al usuario que ingrese el valor de su compra, una vez es ingresado y leído por la computadora, procede a evaluar si cumple con la condición, si el valor de la compra es de 100 dólares en adelante, se le mostrara un mensaje en el cual se menciona un descuento del 20%, se realizara el descuento del 20% al valor de su compra y se mostrara el precio final de la compra, si la compra es de menor a 100 dólares no se mostrare el mensaje del descuento, el programa ignora la instrucción del descuento y procede con la línea final en la que se muestra el precio final.
 
