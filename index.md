@@ -26,13 +26,19 @@
 
 Dentro de estas dos secciones están todas las tareas, actividades realizadas durante la Unidad 1. 🧐
 
-🗄️👁️‍🗨️[Contenido de la Unidad 1](contenidosunidad1.md) 
+🗄️👁️‍🗨️[Contenidos de la Unidad 1](contenidosunidad1.md) 
 
 📖⌨️[Tareas entregadas en la Unidad 1](tareasentregadasu1.md) 
 
 ---
 
 ### 🗄️ Unidad 2
+
+A continuacione en estas dos secciones estan almacenadas las tareas y actividades que se realizaron en la Unidad.
+
+[Contenidos de la Unidad 2](contenidosunidad2.md)
+
+[Tareas entregadas en la Unidad 2](tareasentregadasu2.md)
 
 
 ---
@@ -51,6 +57,8 @@ Dentro de estas dos secciones están todas las tareas, actividades realizadas du
 
 Para este portafolio he usado las siguientes referencias bibliográficas: 
 
+[1] Universidad Nacional de Loja, "Logo Institucional," unl.edu.ec, s.f. [Online]. Disponible: https://unl.edu.ec/ [Accedido: Oct. 29, 2025]
+
 [1] H. Sy Corvo, "Algoritmos cualitativos," Lifeder, Abr. 26, 2021. [Online]. Disponible: https://www.lifeder.com/algoritmos-cualitativos/ [Accedido: Oct. 25, 2025].
 
 [2] H. Sy Corvo, "Algoritmos cuantitativos," Lifeder, Abr. 26, 2021. [Online]. Disponible: https://www.lifeder.com/algoritmos-cuantitativos/ [Accedido: Oct. 25, 2025].
@@ -59,7 +67,6 @@ Para este portafolio he usado las siguientes referencias bibliográficas:
 
 [4] H. C. Ahumada, D. A. Rivas, N. Contreras, M. del V. Miranda, y M. V. Poliche, "Pensamiento computacional mediante programación por bloques: intervención didáctica usando pilas bloques," presentado en el XIII Congreso de Tecnología en Educación y Educación en Tecnología, Posadas, 2018. [Online]. Disponible: https://sedici.unlp.edu.ar/handle/10915/68910 [Accedido: Oct. 25, 2025].
 
-[5] Universidad Nacional de Loja, "Logo Institucional," unl.edu.ec, s.f. [Online]. Disponible: https://unl.edu.ec/ [Accedido: Oct. 29, 2025]
 
 [6] Fundación Sadosky, "Desafío: El gato en la calle," Pilas Bloques, s.f. [Online]. Disponible: https://pilasbloques.program.ar/online/#/desafio/206 [Accedido: Oct. 29, 2025]
 
