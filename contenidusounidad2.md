@@ -12,7 +12,11 @@ Esta estructuras se la denomina simple por que evalua una sola condición, si de
 
 ###### Diagrama de Flujo:
 
-https://drive.google.com/uc?export=view&id=1klfSlSxzLzeBvJfXfmoRLSHExsnr0s8V
+<p align="left">
+  <img src="https://drive.google.com/uc?export=view&id=1klfSlSxzLzeBvJfXfmoRLSHExsnr0s8V" alt="Descripción" width="70%">
+</p>
+
+<p style="text-align:center; font-size:12px;">Fig. 2. Diagrama de Flujo para el Cálculo del Cambio (Elaboración Propia). </p>
 
 
 ```
