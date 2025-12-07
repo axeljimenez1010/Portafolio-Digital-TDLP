@@ -199,6 +199,53 @@ Si ingresa un operador que no coincide con ningún caso, se le mostrara un mensa
 
 #### ESTRUCTURA REPETITIVA (WHILE)
 
+While es una estructura repetitiva del tipo controlada por entrada, es decir, antes de ingresar al bucle primero evalúa la condición, si la condición es verdadera se repetirá mientras siga siendo verdadera, en cambio, si la instrucción es falsa nunca se ejecutará.
+
+##### Ejemplo Práctico:
+
+###### Diagrama de Flujo:
+
+<p align="left">
+  <img src="https://drive.google.com/uc?export=view&id=1wIQCxgAo_GYaYPpGFqJux1AVMqyiR78s" alt="Descripción" width="20%">
+</p>
+
+<p style="text-align:center; font-size:12px;">Fig. 7. Diagrama de Flujo para la demostracion de la Estructura Repetitiva While. (Elaboración Propia). </p>
+
+###### Código en C:
+
+```
+
+#include <stdio.h>
+
+int main(){
+
+    int i = 0; 
+
+    printf("Numeros del 0 al 10:\n");
+    while (i <= 10) {
+        printf("%i \n", i); 
+        i++; 
+    }
+}
+
+```
+
+#### Explicación:
+
+Este algoritmo nos presenta el funcionamiento de "While", que básicamente lo que hace en este programa es que imprime los números del 0 al 10, para realizar esto en cada repetición evalúa si la variable es menor o igual a 10, mientras lo sea el bucle imprime un número y aumenta su valor en 1 hasta que "i" sea mayor a 10, que es cuando considera que la condición es falsa y termina el bucle.
+
+#### ESTRUCTURA REPETITIVA (DO - WHILE)
+
+###### Diagrama de Flujo:
+
+<p align="left">
+  <img src="https://drive.google.com/uc?export=view&id=1wIQCxgAo_GYaYPpGFqJux1AVMqyiR78s" alt="Descripción" width="20%">
+</p>
+
+<p style="text-align:center; font-size:12px;">Fig. 7. Diagrama de Flujo para la demostracion de la Estructura Repetitiva While. (Elaboración Propia). </p>
+
+###### Código en C:
+
 
 
 
