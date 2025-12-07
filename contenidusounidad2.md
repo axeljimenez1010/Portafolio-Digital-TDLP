@@ -16,7 +16,9 @@ Esta estructuras se la denomina simple por que evalua una sola condición, si de
   <img src="https://drive.google.com/uc?export=view&id=1klfSlSxzLzeBvJfXfmoRLSHExsnr0s8V" alt="Descripción" width="70%">
 </p>
 
-<p style="text-align:center; font-size:12px;">Fig. 2. Diagrama de Flujo para el Cálculo del Cambio (Elaboración Propia). </p>
+<p style="text-align:center; font-size:12px;">Fig. 4. Diagrama de Flujo para la demostracion de la Estructura Condicional. (Elaboración Propia). </p>
+
+###### Código en C:
 
 
 ```
@@ -48,5 +50,15 @@ int main( ){
 
 #### Explicación:
 
-En este código primero pedimos al usuario que ingrese el valor de su compra, una vez es ingresado y leído por la computadora, procede a evaluar si cumple con la condición, si el valor de la compra es de 100 dólares en adelante, se le mostrara un mensaje en el cual se menciona un descuento del 20%, se realizara el descuento del 20% al valor de su compra y se mostrara el precio final de la compra, si la compra es de menor a 100 dólares no se mostrare el mensaje del descuento, el programa ignora la instrucción del descuento y procede con la línea final en la que se muestra el precio final.
+Como se puede observar en el diagrama de flujo, el algoritmo empieza definiendo las variables, luego le pide al usuario ingresar el valor de su compra, a continuación sigue con la condición, que evalua si el valor de la compra es mayor o igual a 100. Si determina que sí lo es, ingresa en el camino de la derecha y muestra el mensaje del descuento, continuando realiza los calculos para aplicar el 20% al valor de la compra y mostrar el mensaje final.
+
+Si determina que la compra es menor a 100 doláres, ignora el "if" y muestra el mensaje final.
+
+---
+
+#### ESTRUCTURA CONDICIONAL DOBLE (IF-ELSE)
+
+
+
+
 
