@@ -36,9 +36,9 @@ Dentro de estas dos secciones están todas las tareas, actividades realizadas du
 
 A continuacione en estas dos secciones estan almacenadas las tareas y actividades que se realizaron en la Unidad.
 
-[Contenidos de la Unidad 2](contenidosunidad2.md)
+🔎[Contenidos de la Unidad 2](contenidosunidad2.md)
 
-[Tareas entregadas en la Unidad 2](tareasentregadasu2.md)
+✏️📃[Tareas entregadas en la Unidad 2](tareasentregadasu2.md)
 
 
 ---
