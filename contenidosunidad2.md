@@ -377,6 +377,12 @@ if __name__ == "__main__":
 
 Este algoritmo es un sistema para gestionar las calificaciones mediante un while, el cual controla el procesamiento de la cantidad de estudiantes que va a ser definida por el usuario. Luego con un bucle anidado que hace la validación de entrada, es decir, verifica que los datos ingresados estén en el rango de 0 a 10, cuando verifica que sea verdadero, con el if-else clasifica el rendimiento del alumno y actualiza los contadores antes de repetir el siguiente registro.
 
+### Principales dificultades en la aplicación de los contenidos
+
+Se me dificulto un poco aprender lo que hacia cada estructura, repetitiva y condicional, deducir cuando usar cada tipo de estructura, aprender las restricciones y sintáxis de estas, sin olvidar que la introducción a Java que se me hizo un poco difícil el gran cambio para programar en este lenguaje estando acostumbrado al lenguaje C.
+
+### Reflexión crítica de los aprendizajes de la unidad.
+
 
 
 
