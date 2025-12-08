@@ -206,7 +206,7 @@ While es una estructura repetitiva del tipo controlada por entrada, es decir, an
 ###### Diagrama de Flujo:
 
 <p align="left">
-  <img src="https://drive.google.com/uc?export=view&id=1wIQCxgAo_GYaYPpGFqJux1AVMqyiR78s" alt="Descripción" width="20%">
+  <img src="https://drive.google.com/uc?export=view&id=1wIQCxgAo_GYaYPpGFqJux1AVMqyiR78s" alt="Descripción" width="30%">
 </p>
 
 <p style="text-align:center; font-size:12px;">Fig. 7. Diagrama de Flujo para la demostracion de la Estructura Repetitiva While. (Elaboración Propia). </p>
@@ -236,18 +236,146 @@ Este algoritmo nos presenta el funcionamiento de "While", que básicamente lo qu
 
 #### ESTRUCTURA REPETITIVA (DO - WHILE)
 
+El Do-While es una estructura del tipo controlado por salida, es decir, primero se ejecuta el bloque de código, luego se evalúa la condición, si se cumple la condición se repetirá hasta que sea falsa o sea el cuerpo del bucle se cumplirá al menos una vez.
+
+
 ###### Diagrama de Flujo:
 
 <p align="left">
-  <img src="https://drive.google.com/uc?export=view&id=1wIQCxgAo_GYaYPpGFqJux1AVMqyiR78s" alt="Descripción" width="20%">
+  <img src="https://drive.google.com/uc?export=view&id=1_cIyLkr-tfhA4kqDnIXm9pnGdAs04m7K" alt="Descripción" width="30%">
 </p>
 
-<p style="text-align:center; font-size:12px;">Fig. 7. Diagrama de Flujo para la demostracion de la Estructura Repetitiva While. (Elaboración Propia). </p>
+<p style="text-align:center; font-size:12px;">Fig. 7. Diagrama de Flujo para la demostracion de la Estructura Repetitiva Do-While. (Elaboración Propia). </p>
 
 ###### Código en C:
 
+```
 
+#include <stdio.h>
 
+int main(){
+
+    int i = 0; 
+
+    printf("Numeros del 0 al 10:\n");
+
+    do{
+        printf("%i \n", i);
+        i++; 
+    }while (i <= 10);
+
+    return 0;
+    
+}
+
+```
+
+#### Explicación:
+
+En este algoritmo podemos ver como funciona el do-while, este programa primero imprime el número y va aumentando en 1, luego de ejecutar esa instrucción el programa evalúa la condición para ver si la variable "i" sigue siendo menor o igual a 10 para verificar si sigue imprimiendo números o parar si es que ya sobrepaso la condición.
+
+#### ESTRUCTURA REPETITIVA (FOR)
+
+###### Diagrama de Flujo:
+
+<p align="left">
+  <img src="https://drive.google.com/uc?export=view&id=1lYnKvvJL3-q4W-dmALQ7P0YDAagyhJ0B" alt="Descripción" width="30%">
+</p>
+
+<p style="text-align:center; font-size:12px;">Fig. 8. Diagrama de Flujo para la demostracion de la Estructura Repetitiva For. (Elaboración Propia). </p>
+
+###### Código en C:
+
+```
+
+#include <stdio.h>
+
+int main(){
+
+    int i;
+
+    for(i=0; i<=10; i++){
+        printf("%i \n", i);
+    }
+
+    return 0;
+
+}
+
+```
+
+#### Explicación:
+
+Este otro algoritmo muestra como funciona el "For", este programa junta en una sola linea que controla todo la inicialización, la condición lógica y la actualización del contador, el programa empieza con la variable en 0 y evaluando que sea menor o igual a 10, mientras eso se cumpla el programa va a ejecutar el bloque de código, imprime el número y automáticamente aumenta en  1 en cada repetición; este proceso se repite hasta que la variable sea mayor a 10, deteniéndose por sí solo cuando la variable supera el 10.
+
+---
+
+### EJERCICIO COMBINANDO ESTRUCTURA CONDICIONAL Y REPETITIVA (Java o Python).
+
+#### Contexto del Problema
+
+Desarrollar un programa que permita gestionar las notas finales de un grupo de estudiantes. El algoritmo debe solicitar inicialmente la cantidad de alumnos a evaluar.
+
+Mediante un ciclo repetitivo, el sistema pedirá la nota de cada estudiante, validando obligatoriamente que el valor esté entre 0 y 10 (si es incorrecto, debe volver a pedirlo). Basándose en la nota válida, el programa determinará si el estudiante está "Aprobado" (nota >= 7) o "Reprobado", mostrando al finalizar el proceso el conteo total de cada categoría.
+
+###### Diagrama de Flujo (Bucle y Condición):
+
+<p align="left">
+  <img src="https://drive.google.com/uc?export=view&id=10Gut1QkJncwJ3v9skE-4l3TBpDfQ9brN" alt="Descripción" width="30%">
+</p>
+
+<p style="text-align:center; font-size:12px;">Fig. 9. Diagrama de Flujo para la demostracion del problema Combinado. (Elaboración Propia). </p>
+
+###### Código en Python
+
+```
+def main():
+
+    aprobados = 0
+    reprobados = 0
+
+    print("CALIFICACIONES")
+    
+    cantidad_alumnos = int(input("Ingrese cuantos estudiantes van a ser evaluados: "))
+    contador = 1
+
+    while contador <= cantidad_alumnos:
+        
+        print(f"Notas del Estudiante {contador}")
+        nota = float(input("Ingresa la nota: "))
+
+        while nota < 0 or nota > 10:
+            print("Ingresa una nota entre 0 y 10")
+            nota = float(input("Nota: "))
+
+        if nota >= 7:
+            print("APROBADO")
+            aprobados = aprobados + 1
+        else:
+            print("REPROBADO")
+            reprobados = reprobados + 1
+
+        contador = contador + 1
+
+    print(f"Estudiantes Evaluados: {cantidad_alumnos}")
+    print(f"Aprobados: {aprobados}")
+    print(f"Reprobados: {reprobados}")
+
+if __name__ == "__main__":
+    main()
+```
+
+###### Verificación:
+
+<p align="left">
+  <img src="https://drive.google.com/uc?export=view&id=1oXkTDo23ePDD2idHXQxi5aUq4tvH4aMG" alt="Descripción" width="90%">
+</p>
+
+<p style="text-align:center; font-size:12px;">Fig. 10. Diagrama de Flujo para la demostracion de la Verificación del Problema. (Elaboración Propia). </p>
+
+##### Explicación:
+
+Este algoritmo es un sistema para gestionar las calificaciones mediante un while, el cual controla el procesamiento de la cantidad de estudiantes que va a ser definida por el usuario. Luego con un bucle anidado que hace la validación de entrada, es decir, verifica que los datos ingresados estén en el rango de 0 a 10, cuando verifica que sea verdadero, con el if-else clasifica el rendimiento del alumno y actualiza los contadores antes de repetir el siguiente registro.
 
 
 
