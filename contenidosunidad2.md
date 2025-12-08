@@ -16,7 +16,7 @@ Esta estructuras se la denomina simple por que evalua una sola condición, si de
   <img src="https://drive.google.com/uc?export=view&id=1klfSlSxzLzeBvJfXfmoRLSHExsnr0s8V" alt="Descripción" width="70%">
 </p>
 
-<p style="text-align:center; font-size:12px;">Fig. 4. Diagrama de Flujo para la demostracion de la Estructura Condicional Simple. (Elaboración Propia). </p>
+<p style="text-align:center; font-size:12px;">Fig. 5. Diagrama de Flujo para la demostracion de la Estructura Condicional Simple. (Elaboración Propia). </p>
 
 ###### Código en C:
 
@@ -68,7 +68,7 @@ Este tipo de estructura evalúa la condición y nos brinda dos caminos que se ex
   <img src="https://drive.google.com/uc?export=view&id=174d5_c5jpGUy7GtAM1tyldWTRBZ9_nke" alt="Descripción" width="90%">
 </p>
 
-<p style="text-align:center; font-size:12px;">Fig. 5. Diagrama de Flujo para la demostracion de la Estructura Condicional Doble. (Elaboración Propia). </p>
+<p style="text-align:center; font-size:12px;">Fig. 6. Diagrama de Flujo para la demostracion de la Estructura Condicional Doble. (Elaboración Propia). </p>
 
 ###### Código en C:
 
@@ -125,7 +125,7 @@ Esta estructura nos permite evaluar la condición y comparar su valor con una li
   <img src="https://drive.google.com/uc?export=view&id=1T45EJZ3M_0lK4JA5PJfwltqmIh-Tm_t-" alt="Descripción" width="150%">
 </p>
 
-<p style="text-align:center; font-size:12px;">Fig. 6. Diagrama de Flujo para la demostracion de la Estructura Condicional Múltiple. (Elaboración Propia). </p>
+<p style="text-align:center; font-size:12px;">Fig. 7. Diagrama de Flujo para la demostracion de la Estructura Condicional Múltiple. (Elaboración Propia). </p>
 
 ###### Código en C:
 
@@ -209,7 +209,7 @@ While es una estructura repetitiva del tipo controlada por entrada, es decir, an
   <img src="https://drive.google.com/uc?export=view&id=1wIQCxgAo_GYaYPpGFqJux1AVMqyiR78s" alt="Descripción" width="30%">
 </p>
 
-<p style="text-align:center; font-size:12px;">Fig. 7. Diagrama de Flujo para la demostracion de la Estructura Repetitiva While. (Elaboración Propia). </p>
+<p style="text-align:center; font-size:12px;">Fig. 8. Diagrama de Flujo para la demostracion de la Estructura Repetitiva While. (Elaboración Propia). </p>
 
 ###### Código en C:
 
@@ -245,7 +245,7 @@ El Do-While es una estructura del tipo controlado por salida, es decir, primero 
   <img src="https://drive.google.com/uc?export=view&id=1_cIyLkr-tfhA4kqDnIXm9pnGdAs04m7K" alt="Descripción" width="30%">
 </p>
 
-<p style="text-align:center; font-size:12px;">Fig. 7. Diagrama de Flujo para la demostracion de la Estructura Repetitiva Do-While. (Elaboración Propia). </p>
+<p style="text-align:center; font-size:12px;">Fig. 9. Diagrama de Flujo para la demostracion de la Estructura Repetitiva Do-While. (Elaboración Propia). </p>
 
 ###### Código en C:
 
@@ -282,7 +282,7 @@ En este algoritmo podemos ver como funciona el do-while, este programa primero i
   <img src="https://drive.google.com/uc?export=view&id=1lYnKvvJL3-q4W-dmALQ7P0YDAagyhJ0B" alt="Descripción" width="30%">
 </p>
 
-<p style="text-align:center; font-size:12px;">Fig. 8. Diagrama de Flujo para la demostracion de la Estructura Repetitiva For. (Elaboración Propia). </p>
+<p style="text-align:center; font-size:12px;">Fig. 10. Diagrama de Flujo para la demostracion de la Estructura Repetitiva For. (Elaboración Propia). </p>
 
 ###### Código en C:
 
@@ -324,7 +324,7 @@ Mediante un ciclo repetitivo, el sistema pedirá la nota de cada estudiante, val
   <img src="https://drive.google.com/uc?export=view&id=10Gut1QkJncwJ3v9skE-4l3TBpDfQ9brN" alt="Descripción" width="30%">
 </p>
 
-<p style="text-align:center; font-size:12px;">Fig. 9. Diagrama de Flujo para la demostracion del problema Combinado. (Elaboración Propia). </p>
+<p style="text-align:center; font-size:12px;">Fig. 11. Diagrama de Flujo para la demostracion del problema Combinado. (Elaboración Propia). </p>
 
 ###### Código en Python
 
@@ -371,7 +371,7 @@ if __name__ == "__main__":
   <img src="https://drive.google.com/uc?export=view&id=1oXkTDo23ePDD2idHXQxi5aUq4tvH4aMG" alt="Descripción" width="90%">
 </p>
 
-<p style="text-align:center; font-size:12px;">Fig. 10. Diagrama de Flujo para la demostracion de la Verificación del Problema. (Elaboración Propia). </p>
+<p style="text-align:center; font-size:12px;">Fig. 12. Diagrama de Flujo para la demostracion de la Verificación del Problema. (Elaboración Propia). </p>
 
 ##### Explicación:
 
