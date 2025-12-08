@@ -253,6 +253,14 @@ int main() {
 
 ---
 
+#### Compilación y ejecución
+
+<p align="left">
+  <img src="https://drive.google.com/uc?export=view&id=1QhxzviJcUdT9ZiOxnZOCoU4I6OowckA0 " alt="Descripción" width="90%">
+</p>
+
+<p style="text-align:center; font-size:12px;">Fig. 4. Compilación y Ejecución del Código (Elaboración Propia). </p>
+
 ### 🤔🛑 ***Principales dificultades en la aplicación de los contenidos***
 
 Dentro de la materia he tenido dificultad para adaptarme a los símbolos usados tanto en PSeint como en el lenguaje de C, además de eso cuando escribía mi código en C a veces no compilaba, y se me complicó un poco usar los nuevos términos de C ya que en PSeint se escribe con términos diferentes y que en C se escribe las líneas de código en inglés mientras que en PSeint se lo hace en español.
