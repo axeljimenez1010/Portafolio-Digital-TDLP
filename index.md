@@ -4,7 +4,7 @@
   <img src="https://univercimas.com/wp-content/uploads/2021/04/Universidad-Nacional-de-Loja-UNL.png" alt="Descripción" width="25%">
 </p>
 
-<p style="text-align:center; font-size:12px;">Fig. 1. Logo Universidad [1].</p>
+<p style="text-align:center; font-size:12px;">Fig. 1. Logo Universidad.</p>
 
 ### 🖥️ CARRERA: Computación
 
@@ -69,6 +69,20 @@ Para este portafolio he usado las siguientes referencias bibliográficas:
 
 
 [6] Fundación Sadosky, "Desafío: El gato en la calle," Pilas Bloques, s.f. [Online]. Disponible: https://pilasbloques.program.ar/online/#/desafio/206 [Accedido: Oct. 29, 2025]
+
+[7]  “if (Instrucción) (C) | Microsoft Learn.” Accessed: Dec. 6, 2025. [Online]. Disponible: https://learn.microsoft.com/es-es/cpp/c-language/if-statement-c?view=msvc-170
+
+[8]  “La sentencia if - Documentación de IBM.” Accessed: Dec. 6, 2025. [Online]. Disponible: https://www.ibm.com/docs/es/i/7.5.0?topic=statements-if-statement
+
+[9]  “switch statement - cppreference.com.” Accessed: Dec. 6, 2025. [Online]. Disponible: https://cppreference.com/w/cpp/language/switch.html
+
+[10]	“The while and do-while Statements (The JavaTM Tutorials > Learning the Java Language > Language Basics)”. Accessed: Dec. 7, 2025. [Online]. Disponible en:  https://docs.oracle.com/javase/tutorial/java/nutsandbolts/while.html 
+
+[12]	“The for Statement (The JavaTM Tutorials > Learning the Java Language > Language Basics)”. Accessed: Dec. 7, 2025. [Online]. Disponible en: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/for.html 
+
+[13]	“Loops in C - GeeksforGeeks”. Accessed: Dec. 7, 2025. [Online]. Disponible en: https://www.geeksforgeeks.org/c/c-loops/ 
+
+
 
 ---
 
