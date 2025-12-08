@@ -389,11 +389,17 @@ Se me dificulto un poco aprender lo que hacia cada estructura, repetitiva y cond
 
 En esta unidad aprendí a usar las estructuras repetitivas y condicionales que son de mucha ayuda para el futuro, ya que son las que me ayudan a optimizar y dinamizar mi código pasando de uno simple y lineal a uno que puede procesar información compleja. Esta unidad ha sido de gran ayuda para mi formación, aunque se me dificulto un poco, ha sido una Unidad muy completa y educativa.
 
+---
+
 ### ANEXOS
 
 [Ejercicios en C de la U2](https://drive.google.com/drive/folders/1tKoqiJzLP1xzlgG0zQEEf0gIEfGTwtf4?usp=sharing)
 
 [Ejercicos en Java](https://drive.google.com/drive/folders/1LoXlwtd0ydXIsZ-LheY-3o-qDdHWErG-?usp=sharing)
 
+---
 
+<p align="right">
+  <a href="index.md">Volver a la página principal</a>
+</p>
 
