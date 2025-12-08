@@ -1,12 +1,12 @@
 ## 💾📝CONTENIDOS DE LA UNIDAD 2
 
-### 🚦🔶 ESTRUCUTRAS CONDICIONALES
+### 🚦🔶 ESTRUCTURAS CONDICIONALES
 
 ---
 
 #### 🚪 ESTRUCTURA CONDICIONAL SIMPLE (IF)
 
-Esta estructuras se la denomina simple por que evalua una sola condición, si determina que es verdadera ejecuta la instruccion dentro de la condición, si es falsa, lo ignora y continua con el resto de código que no este en la condición.
+Estas estructuras se la denomina simple porque evalúa una sola condición, si determina que es verdadera ejecuta la instrucción dentro de la condición, si es falsa, la ignora y continúa con el resto de código que no esté en la condición.
 
 ##### 🧑‍💻 Ejemplo Práctico:
 
@@ -16,7 +16,7 @@ Esta estructuras se la denomina simple por que evalua una sola condición, si de
   <img src="https://drive.google.com/uc?export=view&id=1klfSlSxzLzeBvJfXfmoRLSHExsnr0s8V" alt="Descripción" width="70%">
 </p>
 
-<p style="text-align:center; font-size:12px;">Fig. 5. Diagrama de Flujo para la demostracion de la Estructura Condicional Simple. (Elaboración Propia). </p>
+<p style="text-align:center; font-size:12px;">Fig. 5. Diagrama de Flujo para la demostración de la Estructura Condicional Simple. (Elaboración Propia). </p>
 
 ###### Código en C:
 
@@ -50,15 +50,15 @@ int main( ){
 
 #### 💡Explicación:
 
-Como se puede observar en el diagrama de flujo, el algoritmo empieza definiendo las variables, luego le pide al usuario ingresar el valor de su compra, a continuación sigue con la condición, que evalua si el valor de la compra es mayor o igual a 100. Si determina que sí lo es, ingresa en el camino de la derecha y muestra el mensaje del descuento, continuando realiza los calculos para aplicar el descuento del 20% al valor de la compra y mostrar el mensaje final.
+Como se puede observar en el diagrama de flujo, el algoritmo empieza definiendo las variables, luego le pide al usuario ingresar el valor de su compra, a continuación sigue con la condición, que evalúa si el valor de la compra es mayor o igual a 100. Si determina que sí lo es, ingresa en el camino de la derecha y muestra el mensaje del descuento, continuando realiza los cálculos para aplicar el descuento del 20% al valor de la compra y mostrar el mensaje final.
 
-Si determina que la compra es menor a 100 doláres, ignora el "if" y muestra el mensaje final.
+Si determina que la compra es menor a 100 dólares, ignora el "if" y muestra el mensaje final.
 
 ---
 
 #### 🔀 ESTRUCTURA CONDICIONAL DOBLE (IF-ELSE)
 
-Este tipo de estructura evalúa la condición y nos brinda dos caminos que se excluyen entre si, si el programa determina que la condición es verdadera ejecutará lo que este dentro del bloque "if", pero si demuestra que es falsa, ejecuta lo que esta dentro del bloque "else".
+Este tipo de estructura evalúa la condición y nos brinda dos caminos que se excluyen entre sí, si el programa determina que la condición es verdadera ejecutará lo que esté dentro del bloque "if", pero si demuestra que es falsa, ejecuta lo que está dentro del bloque "else".
 
 ##### 🧑‍💻 Ejemplo Práctico:
 
@@ -68,7 +68,7 @@ Este tipo de estructura evalúa la condición y nos brinda dos caminos que se ex
   <img src="https://drive.google.com/uc?export=view&id=174d5_c5jpGUy7GtAM1tyldWTRBZ9_nke" alt="Descripción" width="90%">
 </p>
 
-<p style="text-align:center; font-size:12px;">Fig. 6. Diagrama de Flujo para la demostracion de la Estructura Condicional Doble. (Elaboración Propia). </p>
+<p style="text-align:center; font-size:12px;">Fig. 6. Diagrama de Flujo para la demostración de la Estructura Condicional Doble. (Elaboración Propia). </p>
 
 ###### Código en C:
 
@@ -105,17 +105,17 @@ int main( ){
 
 Ahora, como observamos en el diagrama de flujo, el algoritmo empieza definiendo las variables, luego de eso pide al usuario ingresar el valor de su compra.
 
-Continuando con esto, tenemos la condición (if-else) que evalua si el valor de la compra es mayor o igual a 100.
+Continuando con esto, tenemos la condición (if-else) que evalúa si el valor de la compra es mayor o igual a 100.
 
 Si determina que es verdadero (if), entra en el camino de la derecha muestra el mensaje del descuento y realiza los cálculos para aplicar el 20% y después mostrar el mensaje final.
 
-Si determina que es falso (else), ingresa por el camino de la izquierda y le muestra al usuario el mensaje de que no aplica al descuento y mostrar a continuacion el mensaje final con el valor original al no haberse aplicado el descuento.
+Si determina que es falso (else), ingresa por el camino de la izquierda y le muestra al usuario el mensaje de que no aplica al descuento y mostrar a continuación el mensaje final con el valor original al no haberse aplicado el descuento.
 
 ---
 
 #### 🗂️ ESTRUCTURA CONDICIONAL MÚLTIPLE (SWITCH)
 
-Esta estructura nos permite evaluar la condición y comparar su valor con una lista de casos, si el valor coincide con alguno de estos casos, se ejecutara ese bloque de código.
+Esta estructura nos permite evaluar la condición y comparar su valor con una lista de casos, si el valor coincide con alguno de estos casos, se ejecutará ese bloque de código.
 
 ##### 🧑‍💻 Ejemplo Práctico:
 
@@ -125,7 +125,7 @@ Esta estructura nos permite evaluar la condición y comparar su valor con una li
   <img src="https://drive.google.com/uc?export=view&id=1T45EJZ3M_0lK4JA5PJfwltqmIh-Tm_t-" alt="Descripción" width="150%">
 </p>
 
-<p style="text-align:center; font-size:12px;">Fig. 7. Diagrama de Flujo para la demostracion de la Estructura Condicional Múltiple. (Elaboración Propia). </p>
+<p style="text-align:center; font-size:12px;">Fig. 7. Diagrama de Flujo para la demostración de la Estructura Condicional Múltiple. (Elaboración Propia). </p>
 
 ###### Código en C:
 
@@ -187,13 +187,13 @@ int main(){
 
 Como se ve en el diagrama de flujo, primero definimos las variables, luego de eso se pide al usuario ingresar los dos números y el operador que se desea.
 
-Ahora, seguimos con la estructura del switch, si el usuario escribe un operador que coincida con los diferentes casos (+, -, *, /). Según con cual coincida ejecutara la operación que este dentro de ese caso.
+Ahora, seguimos con la estructura del switch, si el usuario escribe un operador que coincida con los diferentes casos (+, -, *, /). Según con cuál coincida ejecutará la operación que esté dentro de ese caso.
 
-Si ingresa un operador que no coincide con ningún caso, se le mostrara un mensaje de que el operador es inválido.
+Si ingresa un operador que no coincide con ningún caso, se le mostrará un mensaje de que el operador es inválido.
 
 ---
 
-### 🔄 ESTRUCUTRAS REPETITIVAS
+### 🔄 ESTRUCTURAS REPETITIVAS
 
 ---
 
@@ -209,7 +209,7 @@ While es una estructura repetitiva del tipo controlada por entrada, es decir, an
   <img src="https://drive.google.com/uc?export=view&id=1wIQCxgAo_GYaYPpGFqJux1AVMqyiR78s" alt="Descripción" width="30%">
 </p>
 
-<p style="text-align:center; font-size:12px;">Fig. 8. Diagrama de Flujo para la demostracion de la Estructura Repetitiva While. (Elaboración Propia). </p>
+<p style="text-align:center; font-size:12px;">Fig. 8. Diagrama de Flujo para la demostración de la Estructura Repetitiva While. (Elaboración Propia). </p>
 
 ###### Código en C:
 
@@ -248,7 +248,7 @@ El Do-While es una estructura del tipo controlado por salida, es decir, primero 
   <img src="https://drive.google.com/uc?export=view&id=1_cIyLkr-tfhA4kqDnIXm9pnGdAs04m7K" alt="Descripción" width="30%">
 </p>
 
-<p style="text-align:center; font-size:12px;">Fig. 9. Diagrama de Flujo para la demostracion de la Estructura Repetitiva Do-While. (Elaboración Propia). </p>
+<p style="text-align:center; font-size:12px;">Fig. 9. Diagrama de Flujo para la demostración de la Estructura Repetitiva Do-While. (Elaboración Propia). </p>
 
 ###### Código en C:
 
@@ -275,11 +275,13 @@ int main(){
 
 #### 💡Explicación:
 
-En este algoritmo podemos ver como funciona el do-while, este programa primero imprime el número y va aumentando en 1, luego de ejecutar esa instrucción el programa evalúa la condición para ver si la variable "i" sigue siendo menor o igual a 10 para verificar si sigue imprimiendo números o parar si es que ya sobrepaso la condición.
+En este algoritmo podemos ver cómo funciona el do-while, este programa primero imprime el número y va aumentando en 1, luego de ejecutar esa instrucción el programa evalúa la condición para ver si la variable "i" sigue siendo menor o igual a 10 para verificar si sigue imprimiendo números o parar si es que ya sobrepasó la condición.
 
 ---
 
 #### 🔢 ESTRUCTURA REPETITIVA (FOR)
+
+Este es una estrucutra del tipo controlada por entrada en la cual se juntan la inicialización de la variable, la condición y el aumento o decremento en una línea, esta estructura evalúa primero la condición antes de la instrucción para poder ejecutarla.
 
 ##### 🧑‍💻 Ejemplo Práctico:
 
@@ -289,7 +291,7 @@ En este algoritmo podemos ver como funciona el do-while, este programa primero i
   <img src="https://drive.google.com/uc?export=view&id=1lYnKvvJL3-q4W-dmALQ7P0YDAagyhJ0B" alt="Descripción" width="30%">
 </p>
 
-<p style="text-align:center; font-size:12px;">Fig. 10. Diagrama de Flujo para la demostracion de la Estructura Repetitiva For. (Elaboración Propia). </p>
+<p style="text-align:center; font-size:12px;">Fig. 10. Diagrama de Flujo para la demostración de la Estructura Repetitiva For. (Elaboración Propia). </p>
 
 ###### Código en C:
 
@@ -313,7 +315,7 @@ int main(){
 
 #### 💡Explicación:
 
-Este otro algoritmo muestra como funciona el "For", este programa junta en una sola linea que controla todo la inicialización, la condición lógica y la actualización del contador, el programa empieza con la variable en 0 y evaluando que sea menor o igual a 10, mientras eso se cumpla el programa va a ejecutar el bloque de código, imprime el número y automáticamente aumenta en  1 en cada repetición; este proceso se repite hasta que la variable sea mayor a 10, deteniéndose por sí solo cuando la variable supera el 10.
+Este otro algoritmo muestra cómo funciona el "For", este programa junta en una sola línea que controla todo la inicialización, la condición lógica y la actualización del contador, el programa empieza con la variable en 0 y evaluando que sea menor o igual a 10, mientras eso se cumpla el programa va a ejecutar el bloque de código, imprime el número y automáticamente aumenta en  1 en cada repetición; este proceso se repite hasta que la variable sea mayor a 10, deteniéndose por sí solo cuando la variable supera el 10.
 
 ---
 
@@ -331,7 +333,7 @@ Mediante un ciclo repetitivo, el sistema pedirá la nota de cada estudiante, val
   <img src="https://drive.google.com/uc?export=view&id=10Gut1QkJncwJ3v9skE-4l3TBpDfQ9brN" alt="Descripción" width="30%">
 </p>
 
-<p style="text-align:center; font-size:12px;">Fig. 11. Diagrama de Flujo para la demostracion del problema Combinado. (Elaboración Propia). </p>
+<p style="text-align:center; font-size:12px;">Fig. 11. Diagrama de Flujo para la demostración del problema Combinado. (Elaboración Propia). </p>
 
 ###### Código en Python
 
@@ -388,13 +390,13 @@ Este algoritmo es un sistema para gestionar las calificaciones mediante un while
 
 ### ⚠️🤔 PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS 
 
-Se me dificulto un poco aprender lo que hacia cada estructura, repetitiva y condicional, deducir cuando usar cada tipo de estructura, aprender las restricciones y sintáxis de estas, sin olvidar que la introducción a Java que se me hizo un poco difícil el gran cambio para programar en este lenguaje estando acostumbrado al lenguaje C.
+Se me dificultó un poco aprender lo que hacía cada estructura, repetitiva y condicional, deducir cuándo usar cada tipo de estructura, aprender las restricciones y sintaxis de estas, sin olvidar que la introducción a Java que se me hizo un poco difícil el gran cambio para programar en este lenguaje estando acostumbrado al lenguaje C.
 
 ---
 
 ### 🧠💡 REFLEXIÓN CRÍTICA DE LOS APRENDIZAJES DE LA UNIDAD 
 
-En esta unidad aprendí a usar las estructuras repetitivas y condicionales que son de mucha ayuda para el futuro, ya que son las que me ayudan a optimizar y dinamizar mi código pasando de uno simple y lineal a uno que puede procesar información compleja. Esta unidad ha sido de gran ayuda para mi formación, aunque se me dificulto un poco, ha sido una Unidad muy completa y educativa.
+En esta unidad aprendí a usar las estructuras repetitivas y condicionales que son de mucha ayuda para el futuro, ya que son las que me ayudan a optimizar y dinamizar mi código pasando de uno simple y lineal a uno que puede procesar información compleja. Esta unidad ha sido de gran ayuda para mi formación, aunque se me dificultó un poco, ha sido una Unidad muy completa y educativa.
 
 ---
 
@@ -402,7 +404,7 @@ En esta unidad aprendí a usar las estructuras repetitivas y condicionales que s
 
 🗨️ [Ejercicios en C de la U2](https://drive.google.com/drive/folders/1tKoqiJzLP1xzlgG0zQEEf0gIEfGTwtf4?usp=sharing)
 
-🗨️ [Ejercicos en Java](https://drive.google.com/drive/folders/1LoXlwtd0ydXIsZ-LheY-3o-qDdHWErG-?usp=sharing)
+🗨️ [Ejercicios en Java](https://drive.google.com/drive/folders/1LoXlwtd0ydXIsZ-LheY-3o-qDdHWErG-?usp=sharing)
 
 ---
 
