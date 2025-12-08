@@ -371,7 +371,7 @@ if __name__ == "__main__":
   <img src="https://drive.google.com/uc?export=view&id=1oXkTDo23ePDD2idHXQxi5aUq4tvH4aMG" alt="Descripción" width="90%">
 </p>
 
-<p style="text-align:center; font-size:12px;">Fig. 12. Diagrama de Flujo para la demostracion de la Verificación del Problema. (Elaboración Propia). </p>
+<p style="text-align:center; font-size:12px;">Fig. 12. Compilación y Ejecución del Código en Python. (Elaboración Propia). </p>
 
 ##### Explicación:
 
