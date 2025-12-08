@@ -36,5 +36,8 @@ Aqui se requeria implementar las estructruas repetitivas para optimizar proceso 
 
 ---
 
+<p align="right">
+  <a href="index.md">Volver a la página principal</a>
+</p>
 
 
