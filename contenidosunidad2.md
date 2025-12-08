@@ -377,13 +377,21 @@ if __name__ == "__main__":
 
 Este algoritmo es un sistema para gestionar las calificaciones mediante un while, el cual controla el procesamiento de la cantidad de estudiantes que va a ser definida por el usuario. Luego con un bucle anidado que hace la validación de entrada, es decir, verifica que los datos ingresados estén en el rango de 0 a 10, cuando verifica que sea verdadero, con el if-else clasifica el rendimiento del alumno y actualiza los contadores antes de repetir el siguiente registro.
 
-### Principales dificultades en la aplicación de los contenidos
+---
+
+### PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS 
 
 Se me dificulto un poco aprender lo que hacia cada estructura, repetitiva y condicional, deducir cuando usar cada tipo de estructura, aprender las restricciones y sintáxis de estas, sin olvidar que la introducción a Java que se me hizo un poco difícil el gran cambio para programar en este lenguaje estando acostumbrado al lenguaje C.
 
-### Reflexión crítica de los aprendizajes de la unidad.
+---
 
+### REFLEXIÓN CRÍTICA DE LOS APRENDIZAJES DE LA UNIDAD 
 
+En esta unidad aprendí a usar las estructuras repetitivas y condicionales que son de mucha ayuda para el futuro, ya que son las que me ayudan a optimizar y dinamizar mi código pasando de uno simple y lineal a uno que puede procesar información compleja. Esta unidad ha sido de gran ayuda para mi formación, aunque se me dificulto un poco, ha sido una Unidad muy completa y educativa.
+
+### ANEXOS
+
+(Ejercicios en C de la U2)[https://drive.google.com/drive/folders/1tKoqiJzLP1xzlgG0zQEEf0gIEfGTwtf4?usp=sharing]
 
 
 
