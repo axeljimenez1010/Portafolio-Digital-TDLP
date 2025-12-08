@@ -1,14 +1,14 @@
 ## 💾📝CONTENIDOS DE LA UNIDAD 2
 
-### ESTRUCUTRAS CONDICIONALES
+### 🚦🔶 ESTRUCUTRAS CONDICIONALES
 
 ---
 
-#### ESTRUCTURA CONDICIONAL SIMPLE (IF)
+#### 🚪 ESTRUCTURA CONDICIONAL SIMPLE (IF)
 
 Esta estructuras se la denomina simple por que evalua una sola condición, si determina que es verdadera ejecuta la instruccion dentro de la condición, si es falsa, lo ignora y continua con el resto de código que no este en la condición.
 
-##### Ejemplo Práctico:
+##### 🧑‍💻 Ejemplo Práctico:
 
 ###### Diagrama de Flujo:
 
@@ -48,7 +48,7 @@ int main( ){
 
 ```
 
-#### Explicación:
+#### 💡Explicación:
 
 Como se puede observar en el diagrama de flujo, el algoritmo empieza definiendo las variables, luego le pide al usuario ingresar el valor de su compra, a continuación sigue con la condición, que evalua si el valor de la compra es mayor o igual a 100. Si determina que sí lo es, ingresa en el camino de la derecha y muestra el mensaje del descuento, continuando realiza los calculos para aplicar el descuento del 20% al valor de la compra y mostrar el mensaje final.
 
@@ -56,11 +56,11 @@ Si determina que la compra es menor a 100 doláres, ignora el "if" y muestra el 
 
 ---
 
-#### ESTRUCTURA CONDICIONAL DOBLE (IF-ELSE)
+#### 🔀 ESTRUCTURA CONDICIONAL DOBLE (IF-ELSE)
 
 Este tipo de estructura evalúa la condición y nos brinda dos caminos que se excluyen entre si, si el programa determina que la condición es verdadera ejecutará lo que este dentro del bloque "if", pero si demuestra que es falsa, ejecuta lo que esta dentro del bloque "else".
 
-##### Ejemplo Práctico:
+##### 🧑‍💻 Ejemplo Práctico:
 
 ###### Diagrama de Flujo:
 
@@ -101,9 +101,9 @@ int main( ){
 
 ```
 
-#### Explicación:
+#### 💡Explicación:
 
-Ahora, como observamos en el diagrama de flujo, el alogoritmo empieza definiendo las variables, luego de eso pide al usuario ingresar el valor de su compra.
+Ahora, como observamos en el diagrama de flujo, el algoritmo empieza definiendo las variables, luego de eso pide al usuario ingresar el valor de su compra.
 
 Continuando con esto, tenemos la condición (if-else) que evalua si el valor de la compra es mayor o igual a 100.
 
@@ -113,11 +113,11 @@ Si determina que es falso (else), ingresa por el camino de la izquierda y le mue
 
 ---
 
-#### ESTRUCTURA CONDICIONAL MÚLTIPLE (SWITCH)
+#### 🗂️ ESTRUCTURA CONDICIONAL MÚLTIPLE (SWITCH)
 
 Esta estructura nos permite evaluar la condición y comparar su valor con una lista de casos, si el valor coincide con alguno de estos casos, se ejecutara ese bloque de código.
 
-##### Ejemplo Práctico:
+##### 🧑‍💻 Ejemplo Práctico:
 
 ###### Diagrama de Flujo:
 
@@ -183,7 +183,7 @@ int main(){
 
 ```
 
-#### Explicación:
+#### 💡Explicación:
 
 Como se ve en el diagrama de flujo, primero definimos las variables, luego de eso se pide al usuario ingresar los dos números y el operador que se desea.
 
@@ -193,15 +193,15 @@ Si ingresa un operador que no coincide con ningún caso, se le mostrara un mensa
 
 ---
 
-### ESTRUCUTRAS REPETITIVAS
+### 🔄 ESTRUCUTRAS REPETITIVAS
 
 ---
 
-#### ESTRUCTURA REPETITIVA (WHILE)
+#### ⏳ ESTRUCTURA REPETITIVA (WHILE)
 
 While es una estructura repetitiva del tipo controlada por entrada, es decir, antes de ingresar al bucle primero evalúa la condición, si la condición es verdadera se repetirá mientras siga siendo verdadera, en cambio, si la instrucción es falsa nunca se ejecutará.
 
-##### Ejemplo Práctico:
+##### 🧑‍💻 Ejemplo Práctico:
 
 ###### Diagrama de Flujo:
 
@@ -230,14 +230,17 @@ int main(){
 
 ```
 
-#### Explicación:
+#### 💡Explicación:
 
 Este algoritmo nos presenta el funcionamiento de "While", que básicamente lo que hace en este programa es que imprime los números del 0 al 10, para realizar esto en cada repetición evalúa si la variable es menor o igual a 10, mientras lo sea el bucle imprime un número y aumenta su valor en 1 hasta que "i" sea mayor a 10, que es cuando considera que la condición es falsa y termina el bucle.
 
-#### ESTRUCTURA REPETITIVA (DO - WHILE)
+---
+
+#### ▶️ ESTRUCTURA REPETITIVA (DO - WHILE)
 
 El Do-While es una estructura del tipo controlado por salida, es decir, primero se ejecuta el bloque de código, luego se evalúa la condición, si se cumple la condición se repetirá hasta que sea falsa o sea el cuerpo del bucle se cumplirá al menos una vez.
 
+##### 🧑‍💻 Ejemplo Práctico:
 
 ###### Diagrama de Flujo:
 
@@ -270,11 +273,15 @@ int main(){
 
 ```
 
-#### Explicación:
+#### 💡Explicación:
 
 En este algoritmo podemos ver como funciona el do-while, este programa primero imprime el número y va aumentando en 1, luego de ejecutar esa instrucción el programa evalúa la condición para ver si la variable "i" sigue siendo menor o igual a 10 para verificar si sigue imprimiendo números o parar si es que ya sobrepaso la condición.
 
-#### ESTRUCTURA REPETITIVA (FOR)
+---
+
+#### 🔢 ESTRUCTURA REPETITIVA (FOR)
+
+##### 🧑‍💻 Ejemplo Práctico:
 
 ###### Diagrama de Flujo:
 
@@ -304,15 +311,15 @@ int main(){
 
 ```
 
-#### Explicación:
+#### 💡Explicación:
 
 Este otro algoritmo muestra como funciona el "For", este programa junta en una sola linea que controla todo la inicialización, la condición lógica y la actualización del contador, el programa empieza con la variable en 0 y evaluando que sea menor o igual a 10, mientras eso se cumpla el programa va a ejecutar el bloque de código, imprime el número y automáticamente aumenta en  1 en cada repetición; este proceso se repite hasta que la variable sea mayor a 10, deteniéndose por sí solo cuando la variable supera el 10.
 
 ---
 
-### EJERCICIO COMBINANDO ESTRUCTURA CONDICIONAL Y REPETITIVA (Java o Python).
+### 🧑‍💻 EJERCICIO COMBINANDO ESTRUCTURA CONDICIONAL Y REPETITIVA (Java o Python).
 
-#### Contexto del Problema
+#### 🧠 Contexto del Problema
 
 Desarrollar un programa que permita gestionar las notas finales de un grupo de estudiantes. El algoritmo debe solicitar inicialmente la cantidad de alumnos a evaluar.
 
@@ -373,29 +380,29 @@ if __name__ == "__main__":
 
 <p style="text-align:center; font-size:12px;">Fig. 12. Compilación y Ejecución del Código en Python. (Elaboración Propia). </p>
 
-##### Explicación:
+##### 💡Explicación:
 
 Este algoritmo es un sistema para gestionar las calificaciones mediante un while, el cual controla el procesamiento de la cantidad de estudiantes que va a ser definida por el usuario. Luego con un bucle anidado que hace la validación de entrada, es decir, verifica que los datos ingresados estén en el rango de 0 a 10, cuando verifica que sea verdadero, con el if-else clasifica el rendimiento del alumno y actualiza los contadores antes de repetir el siguiente registro.
 
 ---
 
-### PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS 
+### ⚠️🤔 PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS 
 
 Se me dificulto un poco aprender lo que hacia cada estructura, repetitiva y condicional, deducir cuando usar cada tipo de estructura, aprender las restricciones y sintáxis de estas, sin olvidar que la introducción a Java que se me hizo un poco difícil el gran cambio para programar en este lenguaje estando acostumbrado al lenguaje C.
 
 ---
 
-### REFLEXIÓN CRÍTICA DE LOS APRENDIZAJES DE LA UNIDAD 
+### 🧠💡 REFLEXIÓN CRÍTICA DE LOS APRENDIZAJES DE LA UNIDAD 
 
 En esta unidad aprendí a usar las estructuras repetitivas y condicionales que son de mucha ayuda para el futuro, ya que son las que me ayudan a optimizar y dinamizar mi código pasando de uno simple y lineal a uno que puede procesar información compleja. Esta unidad ha sido de gran ayuda para mi formación, aunque se me dificulto un poco, ha sido una Unidad muy completa y educativa.
 
 ---
 
-### ANEXOS
+### 📋 ANEXOS
 
-[Ejercicios en C de la U2](https://drive.google.com/drive/folders/1tKoqiJzLP1xzlgG0zQEEf0gIEfGTwtf4?usp=sharing)
+🗨️ [Ejercicios en C de la U2](https://drive.google.com/drive/folders/1tKoqiJzLP1xzlgG0zQEEf0gIEfGTwtf4?usp=sharing)
 
-[Ejercicos en Java](https://drive.google.com/drive/folders/1LoXlwtd0ydXIsZ-LheY-3o-qDdHWErG-?usp=sharing)
+🗨️ [Ejercicos en Java](https://drive.google.com/drive/folders/1LoXlwtd0ydXIsZ-LheY-3o-qDdHWErG-?usp=sharing)
 
 ---
 
