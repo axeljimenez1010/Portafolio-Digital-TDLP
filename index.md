@@ -55,7 +55,9 @@ En el útlimo apartado al igual que en los anteriores se dividira en 2 secciones
 
 ### 💡 Conclusiones
 
-Como conclusión final puede decir que durante el recorrido del ciclo
+Como conclusión final puedo decir que durante la duración de la materia Teoría de la Programación he logrado aprender a estructurar soluciones lógicas desde su base como lo son pseudocódigo, digramas de flujo  y algoritmos lo cual me ha permitido aprender sobre el control de programas con la ayuda de las estructuras condicionales y repetitivas, lo que ha fortalecido mis capacidades técnicas en el manejo de arreglos, modularidad y pase por referencia con punteros dentro del lenguaje C. Todos estos conocimientos adquiridos fortalecen mis capacidades para mi formación profesional.
+
+Asimismo en esta materia no solo he aprendido herramientas técnicas sino que también mi manera de ver un problema computacional y de razonar una solución lógica y óptima; además he comprendido que desglosar problemas grandes en varios problemas pequeños es una gran manera de optimizar recursos, sin olvidar que, la disciplina de planificar y tener buenas prácticas me facilitaran en el transcurso durante la carerra y por consiguiente en mi vida profesional.
 
 
 ---
