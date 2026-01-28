@@ -47,9 +47,9 @@ A continuacion en estas dos secciones estan almacenadas las tareas y actividades
 
 En el útlimo apartado al igual que en los anteriores se dividira en 2 secciones las cuales almacenan todas las tareas y actividades realizadas en la Unidad 3.
 
-[Contenidos de la Unidad 3]
+📑[Contenidos de la Unidad 3](contenidosunidad3.md)
 
-[Tareas entregadas en la Unidad 3]
+👨‍🏫[Tareas entregadas en la Unidad 3](tareasentregadasu3.md)
 
 ---
 
