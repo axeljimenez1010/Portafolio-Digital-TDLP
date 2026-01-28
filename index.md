@@ -55,6 +55,8 @@ En el útlimo apartado al igual que en los anteriores se dividira en 2 secciones
 
 ### 💡 Conclusiones
 
+Como conclusión final puede decir que durante el recorrido del ciclo
+
 
 ---
 
