@@ -87,7 +87,17 @@ Para este portafolio he usado las siguientes referencias bibliográficas:
 
 [13]	“Loops in C - GeeksforGeeks”. Accessed: Dec. 7, 2025. [Online]. Disponible en: https://www.geeksforgeeks.org/c/c-loops/ 
 
+[14] “Pass by Value Vs Pass by Reference in C - GeeksforGeeks”. Consultado: el 26 de enero de 2026. [En línea]. Disponible en: https://www.geeksforgeeks.org/c/difference-between-call-by-value-and-call-by-reference/ 
 
+[15] “Pasar por referencia - Documentación de IBM”. Consultado: el 26 de enero de 2026. [En línea]. Disponible en: https://www.ibm.com/docs/es/i/7.5.0?topic=calls-pass-by-reference 
+
+[16] “Arreglos Unidimensionales y Multidimensionales”. Consultado: el 26 de enero de 2026. [En línea]. Disponible en: https://repositorio-uapa.cuaed.unam.mx/repositorio/moodle/pluginfile.php/3056/mod_resource/content/1/UAPA-Arreglos-Unidimensionales-Multidimensionales/index.html
+
+[17] “C Arrays (With Examples)”. Consultado: el 26 de enero de 2026. [En línea]. Disponible en: https://www.programiz.com/c-programming/c-arrays
+
+[18] “Multidimensional Arrays in C - 2D and 3D Arrays - GeeksforGeeks”. Consultado: el 26 de enero de 2026. [En línea]. Disponible en: https://www.geeksforgeeks.org/c/multidimensional-arrays-in-c/
+
+[19] “Multi-dimensional Arrays in C/C++ (2D & 3D Arrays) - Unveil the Important Concepts - DataFlair”. Consultado: el 26 de enero de 2026. [En línea]. Disponible en: https://data-flair.training/blogs/multi-dimensional-arrays-in-c-cpp/
 
 ---
 
